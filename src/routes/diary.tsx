@@ -322,7 +322,7 @@ function DiaryPost() {
               </figure>
               <figure className="mx-auto mt-8 w-full max-w-64">
                 <img
-                  src="/photos/dingo-dave-patch.png"
+                  src="/photos/dingo-dave-patch.png?v=3"
                   alt="An embroidered shield patch: a pink dingo, a four-wheel drive, a winch, a campfire and crossed tools, lettered Dingo Dave."
                   className="w-full"
                 />
