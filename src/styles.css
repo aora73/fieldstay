@@ -1,0 +1,132 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #001838;
+  --color-paper: #f6f4ef;
+  --color-card: #ffffff;
+  --color-muted: #3a4d60;
+  --color-mist: #d5dee6;
+  --color-line: #d5dde4;
+  --color-ember: #c83f28;
+  --color-ember-soft: #f8ebe6;
+  --color-on-ember: #fffaf8;
+  --font-sans: "Barlow", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Raleway", "Barlow", ui-sans-serif, sans-serif;
+  --radius-lg: 1rem;
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    text-wrap: balance;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-ember);
+    outline-offset: 2px;
+  }
+}
+
+.fieldstay-map .leaflet-control-zoom a {
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  font-size: 22px;
+}
+
+.fieldstay-map .leaflet-control-attribution {
+  font-size: 11px;
+  max-width: 70%;
+}
+
+.fieldstay-map .stay-marker {
+  background: transparent;
+  border: 0;
+}
+
+.fieldstay-map .stay-pin {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: max-content;
+  height: 44px;
+  color: var(--color-ink);
+  text-decoration: none;
+}
+
+.fieldstay-map .stay-pin-dot {
+  width: 16px;
+  height: 16px;
+  flex: none;
+  border: 2px solid var(--color-card);
+  border-radius: 999px;
+  box-shadow: 0 1px 4px rgb(0 24 56 / 0.45);
+}
+
+.fieldstay-map .stay-pin-name {
+  border: 1px solid var(--color-line);
+  border-radius: 999px;
+  background: var(--color-card);
+  padding: 6px 10px;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.2;
+  white-space: nowrap;
+  box-shadow: 0 1px 4px rgb(0 24 56 / 0.18);
+}
+
+.fieldstay-map .stay-pin-compact {
+  width: 28px;
+  height: 28px;
+  justify-content: center;
+}
+
+.fieldstay-map .stay-pin-compact .stay-pin-dot {
+  width: 18px;
+  height: 18px;
+}
+
+.fieldstay-map .stay-pin-compact.is-on .stay-pin-dot {
+  outline: 2px solid var(--color-ink);
+  outline-offset: 2px;
+}
+
+.fieldstay-map .stay-pin.is-on .stay-pin-name,
+.fieldstay-map .stay-pin:hover .stay-pin-name,
+.fieldstay-map .stay-pin:focus-visible .stay-pin-name {
+  border-color: var(--color-ink);
+  background: var(--color-ink);
+  color: var(--color-paper);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+    scroll-behavior: auto !important;
+  }
+}
