@@ -1341,5 +1341,369 @@ export const EXTRA_STAYS: Stay[] = [
       "Photographs: Gum Tree Lodge and Bush Camp gallery, the deck, the bush sites and the bottom dam. Generated images on the same site were not used",
     ],
   },
+  {
+    slug: "royal-on-the-park",
+    name: "Royal on the Park",
+    aka: "Royal on the Park Hotel and Suites",
+    category: "hotel",
+    subsection: "classic-room",
+    also: ["convention"],
+    region: "Brisbane CBD",
+    state: "QLD",
+    address: "152 Alice Street, Brisbane QLD 4000",
+    lat: -27.47283,
+    lng: 153.029116,
+    score: 8.1,
+    priceBand: "$$",
+    priceNote:
+      "The rooms page, checked November 2026, starts a deluxe city king or twin from $219 a night and a deluxe park view from $239. Premium park-view rooms start from $259, and the suites from $274. Guest parking is $22 a night for one car, on top of the room.",
+    attributes: [
+      "pool",
+      "spa",
+      "wifi",
+      "parking",
+      "front-desk",
+      "gym",
+      "laundry",
+      "kids",
+      "city-walk",
+      "accessible",
+      "week-plus",
+    ],
+    photos: [
+      {
+        src: "/photos/royal-on-the-park.jpg",
+        alt: "Royal on the Park at dusk, the hotel beside the Brisbane botanic gardens with the CBD behind",
+        caption: "Alice Street. The gardens are the front yard, the towers are the view.",
+        credit: "Royal on the Park",
+        creditHref: "https://www.royalonthepark.com.au/",
+      },
+      {
+        src: "/photos/royal-on-the-park-pool.jpg",
+        alt: "Outdoor pool at Royal on the Park, lounges along a timber deck with palms and the city behind",
+        caption: "The pool is about 16 metres, at the back of the hotel, open 6.30am to 9pm.",
+        credit: "Royal on the Park",
+        creditHref: "https://www.royalonthepark.com.au/facilities",
+      },
+    ],
+    summary:
+      "A traditional 4.5-star hotel on Alice Street, opposite the City Botanic Gardens, with Walnut restaurant downstairs and a walk to Queen Street. A Brisbane bed for a crew that wants a real room, not a kitchen.",
+    aoraExperience:
+      "This is the Brisbane night when the academy is in the city and the next morning is a flight, a meeting, or the Bruce. The gardens are across Alice Street. Queen Street is a short walk. If you came in on the Airtrain, Central is about a kilometre on, thirteen minutes if you are walking it. The room is a hotel room: a king or two queens, floor-to-ceiling glass, a bath, a coffee pod, and no kitchen. Walnut covers breakfast through dinner, which is the point when nobody is cooking. Guest parking is $22 a night for one car, written on the hotel’s own facilities page. The pool is a ground-floor 16 metres out the back, 6.30am to 9pm, with no lifeguard. The gym is on level 11, open all night on your key, and nobody is staffing it. It is a traditional house, not a new tower and not an apartment. We would send a crew here for a city night. We would not send a crew that needs a kitchen, or a dog we had not cleared on the phone.",
+    verdict:
+      "The right Brisbane CBD bed if the gardens and a walk into the city matter more than a new building or a stove. Add the $22 parking before you call it a bargain.",
+    bestFor:
+      "A crew overnighting in Brisbane who want the botanic gardens at the door, dinner in the building, and a train or a taxi to the airport in the morning.",
+    skipIf:
+      "You need a kitchen, a free car park, or a dog you have not asked about. Also skip it if you wanted a Gold Coast or Sunshine Coast resort and only searched ‘park’.",
+    scores: [
+      { label: "Gardens", value: 9.0 },
+      { label: "Room", value: 7.8 },
+      { label: "Dining", value: 7.6 },
+      { label: "Value", value: 7.2 },
+      { label: "Walk", value: 8.8 },
+    ],
+    sections: [
+      {
+        heading: "Where it sits",
+        paragraphs: [
+          "Royal on the Park is at 152 Alice Street, Brisbane, QLD 4000. Phone (07) 3221 3411, toll free 1800 773 337, stay@royalonthepark.com.au. The hotel calls itself 4.5 star: premium rooms and suites, conference space, and restaurant dining. Check-in is 1pm. Check-out is 11am. Unlimited free high-speed Wi-Fi is on the facilities list, not a paid add-on.",
+          "The Airtrain from either airport stops at Central. The hotel’s own note is to get off there and walk about a kilometre, thirteen minutes, via Edward Street. A taxi or a ride-share is the other honest option. Con-X-ion and Priority One will drop at the door if someone has priced a transfer. Do not assume a free shuttle.",
+        ],
+      },
+      {
+        heading: "The room, and what it is not",
+        paragraphs: [
+          "Deluxe city rooms, king or twin, start from $219 on the rooms page. Deluxe park view, looking at the botanic gardens, starts from $239. Premium rooms on the higher floors start from $239 city and $259 park. The junior suite is from $274, the executive suite from $299, and the deluxe spa suite from $319. Those are ‘from’ rates, checked November 2026, before a package and before a busy week. Stay-longer deals are advertised: 10 percent from two nights, 15 percent for three or four, 20 percent from five. Read the dates.",
+          "Twin deluxe rooms can take two adults and two children, or four adults, with $20 a night for a third or fourth adult. A rollaway is $45, and only in a king room. A cot is $15. Interconnecting rooms exist. Walk-in showers are limited to one deluxe city king, one deluxe park king, the deluxe spa suites and the executive suites. The restaurant, the lounge, the ballroom and the lobby toilet are the accessible bits. Ring and name the room if a wheelchair is part of the booking.",
+        ],
+      },
+      {
+        heading: "Parking, pool, food",
+        paragraphs: [
+          "Hotel guests pay $22 a night for one car per room. A second car is $37. You cannot treat the public car park as the same deal: the board is $37 for three hours, $47 for three to nine, and $60 for nine to 24. Event parking is $33 and does not include overnight. Walnut diners who spend $100 in one hit can ask reception for a complimentary park, with the receipt. Older booking sites still say $20 or $35. The facilities page is the one to budget.",
+          "The pool is about 16 metres, ground floor, rear of the hotel, 6.30am to 9pm. There is no lifeguard, and children are not to be left. An outdoor spa is on the facilities list with the pool. The gym is level 11, reached by stairs from level 10, open 24 hours, unmanned, towels in the room. Guest laundry is on level 4 at $5 a wash or dry, powder $2 from reception.",
+          "Walnut Restaurant and the lounge bar run from breakfast through dinner. The hotel sells buffet breakfast as its own package, so do not assume it is in the room rate. A dog is not mentioned anywhere on the facilities page. That is not a yes. Ask before you arrive with one.",
+        ],
+      },
+    ],
+    practical: [
+      { label: "Kind of stay", value: "4.5-star CBD hotel. Rooms and suites, no kitchen" },
+      { label: "Check-in", value: "1pm in, 11am out" },
+      { label: "Parking", value: "$22 a night, one car per room. Extra car $37. Public rates are higher" },
+      { label: "Pool", value: "About 16 m, ground floor, 6.30am–9pm. No lifeguard" },
+      { label: "Gym", value: "Level 11, 24 hours, room key, unmanned" },
+      { label: "From the airport", value: "Airtrain to Central, then about 1 km. Or a taxi" },
+      { label: "Phone", value: "(07) 3221 3411 · 1800 773 337 · stay@royalonthepark.com.au" },
+      { label: "Pets", value: "Not published. Ask before you bring one" },
+    ],
+    pros: [
+      "The botanic gardens are across the street",
+      "Queen Street, the trains and the river are a walk, not a drive",
+      "Walnut means dinner does not require another booking",
+      "Free Wi-Fi, a real pool, and a gym that does not close",
+      "Guest parking at $22 is written down, which is rarer than it should be",
+    ],
+    cons: [
+      "No kitchen",
+      "Parking still adds up, and a second car is $37",
+      "The accessible rooms are a short list. Book the actual room",
+      "A dog is an unanswered question",
+      "It is a traditional hotel. Do not expect a new tower",
+    ],
+    sources: [
+      "Dingo Dave, Australian Offroad Academy, written November 2026: Brisbane city night, gardens across Alice Street, Walnut for the meal, $22 parking, pool and gym as published, no kitchen",
+      "Royal on the Park rooms page, checked November 2026: deluxe city from $219, deluxe park from $239, premium park from $259, suites from $274",
+      "Royal on the Park facilities page, checked November 2026: 152 Alice Street, (07) 3221 3411, 1800 773 337, stay@royalonthepark.com.au, check-in 1pm, check-out 11am, free Wi-Fi, pool hours and length, gym, parking tariff, laundry, cots and rollaways",
+      "OpenStreetMap: Royal on the Park, 152 Alice Street, -27.4728303, 153.0291163",
+      "Photographs: Royal on the Park, the hotel and gardens at dusk, and the pool",
+    ],
+  },
+  {
+    slug: "shangri-la-cairns",
+    name: "Shangri-La The Marina, Cairns",
+    aka: "Shangri-La Cairns",
+    category: "hotel",
+    subsection: "classic-room",
+    also: [],
+    region: "Cairns, Marlin Marina",
+    state: "QLD",
+    address: "Pier Point Road, Cairns City QLD 4870",
+    lat: -16.919763,
+    lng: 145.779704,
+    score: 8.4,
+    priceBand: "$$$",
+    priceNote:
+      "A midweek room can look like a $$ night until valet and breakfast are on the bill. Current published valet is $40 a day for a car under 1.9 metres. A booking listing puts covered self-parking at $30 and a buffet breakfast near $38 an adult. Re-check both.",
+    attributes: [
+      "pool",
+      "wifi",
+      "parking",
+      "front-desk",
+      "gym",
+      "laundry",
+      "kids",
+      "city-walk",
+      "accessible",
+      "ev",
+      "no-pets",
+    ],
+    photos: [
+      {
+        src: "/photos/shangri-la-cairns.jpg",
+        alt: "Shangri-La The Marina, Cairns, the long white hotel behind yachts on Marlin Marina",
+        caption: "Pier Point Road. The reef boats leave from this water, not from a bus park.",
+        credit: "Shangri-La The Marina, Cairns",
+        creditHref: "https://www.shangri-la.com/cairns/shangrila/",
+      },
+      {
+        src: "/photos/shangri-la-cairns-balcony.jpg",
+        alt: "Hotel balcony with striped couches looking over the Cairns marina to the hills",
+        caption: "A marina-view balcony. Ask for the water if that is why you booked.",
+        credit: "Shangri-La The Marina, Cairns",
+        creditHref: "https://www.shangri-la.com/cairns/shangrila/",
+      },
+    ],
+    summary:
+      "The Cairns hotel on Marlin Marina. Reef boats a short walk one way, the Esplanade lagoon the other, an outdoor pool held around 27 degrees, and no dogs. The night before the reef, or the night after the Cape.",
+    aoraExperience:
+      "Cairns, for us, is either the night before a reef boat or the night after the Peninsula, when a proper shower matters more than another swag. Shangri-La sits on Pier Point Road over Marlin Marina. The reef fleet terminal is a few minutes’ walk. The Esplanade lagoon is the other way. The room looks at the boats or the inlet, and The Backyard is there if the night markets can wait. The pool is outdoors and the hotel’s own pool note says it is held at about 27 degrees. That is the right water after a hot drive, and the wrong expectation if you wanted a bath-hot lap pool in July. Parking is undercover and it is not free. The current hotel figure for valet is $40 a day, for a car under 1.9 metres, in and out included. A dog does not come. Marina mornings are noisy. That is the address, not a fault in the room. We would send a crew here for the reef. We would not send them here to save money.",
+    verdict:
+      "The Cairns base when the boat or the marina is the reason you stopped. Pay the parking, skip it with a dog, and do not expect a quiet dawn.",
+    bestFor:
+      "A crew with a reef day, or a crew that has just come off the Cape and wants a real bed before the drive south.",
+    skipIf:
+      "You are travelling with a pet, you need the room to be cheap once parking and breakfast are added, or you wanted a highway motel with a drive-up door.",
+    scores: [
+      { label: "Marina", value: 9.4 },
+      { label: "Room", value: 8.4 },
+      { label: "Reef", value: 9.2 },
+      { label: "Food", value: 8.0 },
+      { label: "Value", value: 7.0 },
+    ],
+    sections: [
+      {
+        heading: "The address",
+        paragraphs: [
+          "Shangri-La The Marina, Cairns is on Pier Point Road, Cairns City QLD 4870. Phone (07) 4052 7500. The hotel has been on this marina since the mid-2000s. It is not a new tower, and it does not need to be. The reef departure terminal and The Pier are a few minutes on foot. The Esplanade and the lagoon are a short walk the other way. Cairns Airport is about a ten-minute drive when the road is kind. A booking listing gives check-in from 2pm and check-out by 11am. Confirm that week.",
+          "Wi-Fi is free. The front desk is 24 hours. There is a gym, a business centre, and meeting rooms. Accessibility is listed, including an accessible parking space and lift. An EV charger is listed. There is no pets policy to negotiate: the listing is no pets, service animals aside.",
+        ],
+      },
+      {
+        heading: "Pool, food, parking",
+        paragraphs: [
+          "The pool is outdoors, with a children’s pool, and the hotel’s gym and pool page describes it as temperature-controlled at about 27°C through the year. There is no hot tub and no spa on the published wellness list. In-room massage is the substitute, not a spa floor. The Backyard is the waterside restaurant. Breakfast is not in every rate. A current booking listing puts the buffet near $38 for an adult and $19 for a child. Treat that as a guide, not a menu.",
+          "Valet, on the hotel’s own parking line as carried in the current public listing, is $40 a day for cars under 1.9 metres, with unlimited entry and exit. A booking listing adds covered self-parking at $30 a day, also with in-and-out. Older traveller answers still say $15. Those are out of date until the desk says otherwise. A rollaway, where a listing still prints it, is about $100 a night. A 1.5 percent card surcharge shows up on the same listings. None of that is included in the room you first see.",
+        ],
+      },
+      {
+        heading: "How to use the night",
+        paragraphs: [
+          "Book the marina or sea view if the balcony is the reason. A city-side room in this building misses the point. The reef boats leave early. That is the noise, and it is also why you are here. If the crew is going straight back to the Peninsula, this is the resupply and the shower, not a week. If the crew is only in Cairns for the reef, two nights covers a weather day.",
+          "The Esplanade lagoon is the free swim if the pool is busy. It is not a surf beach. Night markets and the pier are close enough that dinner can be outside the hotel. The Backyard is the meal when it is raining or when nobody wants to walk.",
+        ],
+      },
+    ],
+    practical: [
+      { label: "Kind of stay", value: "5-star marina hotel. No kitchen, no pets" },
+      { label: "Check-in", value: "A current listing says from 2pm, out by 11am. Confirm" },
+      { label: "Parking", value: "Valet $40 a day under 1.9 m. Self-park listed at $30. Both extra" },
+      { label: "Pool", value: "Outdoor, about 27°C, children’s pool. No spa" },
+      { label: "Reef", value: "Fleet terminal a few minutes’ walk" },
+      { label: "Breakfast", value: "Extra. A listing has it near $38 adult, $19 child" },
+      { label: "Phone", value: "(07) 4052 7500" },
+      { label: "Pets", value: "No" },
+    ],
+    pros: [
+      "The reef boats are at the end of the street",
+      "The marina is the view, not a brochure map",
+      "Pool, gym, and a restaurant that does not require a car",
+      "The Esplanade lagoon is a walk",
+      "The right shower after the Cape",
+    ],
+    cons: [
+      "No dogs",
+      "Parking and breakfast move a $$ quote into a $$$ night",
+      "Marina mornings are not quiet",
+      "Cars over 1.9 metres do not fit the valet figure",
+      "It is not a new hotel, and some rooms show it",
+    ],
+    sources: [
+      "Dingo Dave, Australian Offroad Academy, written November 2026: the Cairns night before a reef boat or after the Peninsula, marina at the door, no dogs, parking on top of the room",
+      "Shangri-La The Marina, Cairns, public hotel notes as carried November 2026: Pier Point Road, (07) 4052 7500, valet $40 a day under 1.9 m with in-and-out, pool held at about 27°C, no pets, free Wi-Fi",
+      "OpenStreetMap: Shangri-La Hotel, Pier Point Road, Cairns, -16.9197633, 145.7797035",
+      "Current booking listings, checked November 2026: self-parking about $30, breakfast about $38 adult and $19 child, check-in from 2pm, check-out 11am. Confirm against the desk",
+      "Photographs: Shangri-La The Marina, the hotel from the marina, and a marina-view balcony",
+    ],
+  },
+  {
+    slug: "punsand-bay",
+    name: "Punsand Bay",
+    aka: "Cape York Camping Punsand Bay",
+    category: "tourist-park",
+    subsection: "beachfront-park",
+    also: ["cabin-village"],
+    region: "Punsand Bay, Cape York",
+    state: "QLD",
+    address: "Lot 11 Punsand Bay, via Bamaga QLD 4876",
+    lat: -10.721378,
+    lng: 142.463296,
+    score: 8.6,
+    priceBand: "$$",
+    priceNote:
+      "The operator pages do not print one standing site rate. A 2020 camp note had a powered site around $90 for two adults and three children. Treat that as history. Peak is June to mid-October, and the rooms cost more than the dirt.",
+    attributes: [
+      "beach",
+      "bush",
+      "powered",
+      "unpowered",
+      "pool",
+      "hot-shower",
+      "laundry",
+      "pets",
+      "kids",
+      "front-desk",
+      "week-plus",
+      "unsealed",
+      "larger-rigs",
+    ],
+    photos: [
+      {
+        src: "/photos/punsand-bay-beach.jpg",
+        alt: "Camper trailer and tents under trees on the beach at Punsand Bay, the sea behind the camp",
+        caption: "Beachfront camping. This row is unpowered. The swim is the pool, not the bay.",
+        credit: "Eyes About Australia, via Punsand Bay",
+        creditHref: "https://www.capeyorkcamping.com.au/stay/camping",
+      },
+      {
+        src: "/photos/punsand-bay-powered.jpg",
+        alt: "Caravans on powered sites under the trees at Punsand Bay",
+        caption: "Powered sites sit in the middle and rear rows, in the shade.",
+        credit: "Punsand Bay Cape York Camping",
+        creditHref: "https://www.capeyorkcamping.com.au/stay/camping",
+      },
+      {
+        src: "/photos/punsand-bay-tent.jpg",
+        alt: "A canvas tent camped on the sand at Punsand Bay with the beach beyond",
+        caption: "Unpowered, on the beach. A generator here is a daytime tool.",
+        credit: "Punsand Bay Cape York Camping",
+        creditHref: "https://www.capeyorkcamping.com.au/stay/camping",
+      },
+    ],
+    summary:
+      "The camp on the beach at the top of Cape York, five kilometres from the Tip and an hour once you are driving it. Pool, Corrugation Bar, powered sites in the trees, unpowered sites on the sand. Seasonal, off-grid, and worth the drive if the Tip was the point.",
+    aoraExperience:
+      "If the Peninsula was the trip, this is where it stops. Lot 11, on the beach. Pajinka is five kilometres in a straight line and forty minutes to an hour on the track, depending on the road and the traffic. The bay is not the swim. Crocodiles are why the pool is there, in the shade, next to the Corrugation Bar. That bar is the most northern one on the mainland, and it is the reward for the corrugations: Black Bird coffee before you leave, wood-fired pizza through the busy season, quiet time at 10pm. Powered sites are back in the trees. The beachfront row is unpowered, and a small generator there runs 9am to 6pm, not all night. Cabins and villas cover whoever will not do another night in the swag. Dogs can come on a site, on a lead, and they do not go in the restaurant. The cabins page says no pets in the rooms. A March 2026 note from the camp says a few rooms can take a dog if you ask first. Believe the stricter line until they say yes. Four nights is the stay that makes fourteen hours from Cairns make sense. We would send a crew that has already decided to drive the Cape. We would not send anyone who needs a camp kitchen, a January booking, or a sealed driveway.",
+    verdict:
+      "The Tip base, if you are already committed to the drive. Book it, stay long enough to recover, and swim in the pool.",
+    bestFor:
+      "A crew that has driven the Peninsula and wants the Tip, a beach, a pool, and a beer without another hour in the car.",
+    skipIf:
+      "You needed a camp kitchen, a dump point you have not confirmed, a dog in a cabin you have not cleared, or a bed in the wet season. Also skip it if the only plan was a quick photo at the sign and a same-day turnaround.",
+    scores: [
+      { label: "Setting", value: 9.5 },
+      { label: "Tip", value: 9.2 },
+      { label: "Camp", value: 8.2 },
+      { label: "Bar", value: 8.6 },
+      { label: "Drive", value: 7.4 },
+    ],
+    sections: [
+      {
+        heading: "Getting there",
+        paragraphs: [
+          "Punsand Bay Cape York Camping is Lot 11, Punsand Bay, via Bamaga QLD 4876. Phone (07) 4069 1722. Email frontdesk@capeyorkcamping.com.au. The Colquhoun family run it, two generations, and they are plain that the place is off-grid: their own water, their own generator for the facilities, rubbish and recycling handled out the back. The camping page says open April to December. The footer on the same site says March to November. Book the year you are travelling, and read the socials before you leave Cairns. Peak dining is June to mid-October.",
+          "The camp’s own FAQ puts the drive from Cairns, on the main road, at about 14 to 15 hours, and asks you to stop at least one night rather than do it in a single push. Side tracks make it longer, which is the better trip. Their road notes are the sensible ones: headlights on, UHF channel 40, let faster traffic past, avoid the 9am to 4pm peak if you hate a queue, and check RACQ, the Bureau, and 13 19 40 before you commit to a river. The last kilometres are not a town street. A 4WD is the right vehicle. Tell them the van length, without the drawbar, when you book. They have had everything from a swag to a very large rig, and the site has to match it.",
+        ],
+      },
+      {
+        heading: "How you sleep",
+        paragraphs: [
+          "Powered sites are 240-volt, in the middle and rear rows, with bore or creek water, and they are all different shapes. Unpowered beachfront sites are the ones on the sand. Unpowered bush sites are in the middle, the rear, and the lily creek area. Small generators on unpowered sites are allowed from 9am to 6pm. There is no camp kitchen. Three amenity blocks have the hot showers and toilets. There is a guest laundry. The operator pages we read do not list a dump point. A 2020 camp note said there wasn’t one. Empty the cassette before you need Bamaga to save you.",
+          "If someone is done with the swag, there are four roofs. Beachfront bungalows sleep two, fan only, no ensuite, no fridge, no cooking, linen included. Beachfront villas sleep two, ensuite, air-conditioning, a small fridge and a kettle, and they are the rooms that mention Wi-Fi. Do not assume the tent row has it. One-bedroom air-conditioned cabins sleep two, with an ensuite and a kitchenette that stops at a microwave. Two-bedroom cabins sleep four, two ensuites, same kitchenette. None of the rooms are a full cook’s kitchen. The restaurant is the stove.",
+        ],
+      },
+      {
+        heading: "The Tip, the pool, the bar",
+        paragraphs: [
+          "You can see the headland from the beach. Driving to Pajinka still takes 40 minutes to an hour. The camp is the closest commercial campground to the Tip, and the Tip has no toilets, so use the block before you leave. Three walking tracks leave the car park up there. Take the photographs and nothing else. The day they suggest, if you have the vehicle for it, is the Tip, possibly the Roma Flats track, Lockerbie Scrub, Somerset, Fly Point and the five-beach run, then back via the Croc Tent. That is a day, not an hour.",
+          "The pool is the swim. The facilities page says it straight: there are lots of places you cannot swim up here, and the pool is not one of them. It is shaded, next to the bar. Dogs do not swim. The camp’s March 2026 note says beach walks are fine, stay off the water’s edge morning and night, tie dogs up after dark, and do not leave food scraps. Crocodiles are not a slogan.",
+          "The Corrugation Bar and Restaurant is casual, no booking for an ordinary meal, dine-in or takeaway. In peak it is breakfast, lunch and dinner, seven days. Pizzas are six nights from 5pm and Sunday lunch, with gluten-free bases. Alcohol from 10am. Quiet time and bar close around 10pm, and that can move. Coffee is Black Bird, from 8am in the busy season, earlier on the facilities page which says about 7.30am. Cape York Lager on tap is theirs via Yours Mates. Reception sells shirts, ice, bait, bread, long-life milk, maps and basics. Do the real grocery shop in Bamaga or Seisia. Scenic helicopters leave from the camp if that is the way someone wants to see the Tip. It is a tour, not part of the site fee.",
+        ],
+      },
+    ],
+    practical: [
+      { label: "Kind of stay", value: "Beach camp and cabins, seasonal, off-grid" },
+      { label: "Season", value: "Pages say April–December and the footer says March–November. Check the year" },
+      { label: "From Cairns", value: "About 14–15 hours on the main road. Stop a night on the way" },
+      { label: "The Tip", value: "5 km in a line, 40–60 minutes to drive. No toilets up there" },
+      { label: "Swim", value: "The pool. Not the bay" },
+      { label: "Power", value: "240 V on powered sites. Generators 9am–6pm on unpowered" },
+      { label: "Pets", value: "Yes on sites, on a lead. Rooms: the cabins page says no. Ask if a room is offered" },
+      { label: "Phone", value: "(07) 4069 1722 · frontdesk@capeyorkcamping.com.au" },
+    ],
+    pros: [
+      "The closest commercial camp to the Tip, on the beach",
+      "A pool, because the bay is not for swimming",
+      "The Corrugation Bar after a day of corrugations",
+      "Powered sites and a proper roof if the swag is finished",
+      "Dogs on the camp sites, if they are on a lead",
+    ],
+    cons: [
+      "The drive is the price of admission",
+      "No camp kitchen, and do not count on a dump point",
+      "Seasonal. The pages do not even agree on the months",
+      "Beachfront sites are unpowered, and generators stop at 6pm",
+      "A dog in a room is a phone call, not a tick box",
+      "It fills in the peak months. Book",
+    ],
+    sources: [
+      "Dingo Dave, Australian Offroad Academy, written November 2026: the Cape night at the Tip, pool not the bay, Corrugation Bar, four nights if you can, dogs on a site",
+      "Punsand Bay Cape York Camping, camping, cabins, facilities, FAQ, dining and road pages, checked November 2026: Lot 11 via Bamaga, (07) 4069 1722, frontdesk@capeyorkcamping.com.au, powered and unpowered sites, no camp kitchen, generator hours, four room types, pool, season notes, Tip drive times",
+      "Camp note, March 2026: dogs on a lead, not in the restaurant, a limited number of rooms only if you ask, no swimming for dogs, crocodile cautions",
+      "Campground GPS published with a 2020 site review: -10.721378, 142.463296. A gazetteer places the camp about 700 m west, at -10.71937, 142.45678. The bay centroid is a different point",
+      "Photographs: Eyes About Australia via the camp, beachfront sites; Punsand Bay Cape York Camping, powered sites and a beach tent",
+    ],
+  },
 ];
+
 
