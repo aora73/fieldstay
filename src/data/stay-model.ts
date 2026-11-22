@@ -213,6 +213,8 @@ export type Stay = {
   lat: number;
   lng: number;
   score: number;
+  /** False only when no AORA crew has slept here. The page then says the number is a desk reading. */
+  roadTested?: boolean;
   priceBand: "$" | "$$" | "$$$";
   priceNote: string;
   attributes: AttributeId[];

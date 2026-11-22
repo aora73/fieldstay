@@ -1083,5 +1083,263 @@ export const EXTRA_STAYS: Stay[] = [
       "Photographs: Visit Sunshine Coast, Paperbark tents and kangaroos; Hipcamp, Lake Cootharaba",
     ],
   },
+  {
+    slug: "hangar-o",
+    name: "Hangar O",
+    category: "camping",
+    subsection: "farm-creek",
+    also: ["swim-camp", "pet-camp"],
+    region: "Gunalda, south of Gympie",
+    state: "QLD",
+    address: "2484 Bruce Highway, Gunalda QLD 4570",
+    lat: -26.017035,
+    lng: 152.562802,
+    score: 8.1,
+    roadTested: false,
+    priceBand: "$$",
+    priceNote:
+      "Unpowered camping is $50 a night for up to two people, plus $10 a night for each child 16 or under. Kids over 16 count as adults. Couples luxe tents start at $195, family luxe tents and the luxe studio at $245, a Billabox at $185, and something the pricing page only calls a Tripod at $85. Firewood is a 20–25 kg crate at $20. The camp shower takes $1 and $2 coins. Pay in full when you book.",
+    attributes: [
+      "unpowered",
+      "pets",
+      "campfire",
+      "hot-shower",
+      "pool",
+      "bush",
+      "natural-swim",
+      "kids",
+      "two-wd",
+      "larger-rigs",
+      "accessible",
+    ],
+    photos: [
+      {
+        src: "/photos/hangar-o-tents.jpg",
+        alt: "Two canvas glamping tents with black timber frames, open onto a shared deck with a table and chairs",
+        caption: "Couples luxe tents on a deck. The pricing page starts these at $195 a night.",
+        credit: "Hangar O",
+        creditHref: "https://www.hangaro.com.au/",
+      },
+      {
+        src: "/photos/hangar-o-fire.jpg",
+        alt: "A stone fire pit burning in front of a safari tent on a lawn, with gums behind",
+        caption: "A fire in front of a tent. Campfires are the communal pits, or a pit you bring that does not scorch the ground.",
+        credit: "Hangar O",
+        creditHref: "https://www.hangaro.com.au/",
+      },
+      {
+        src: "/photos/hangar-o-billabong.jpg",
+        alt: "Still water reflecting gum trees in warm light, with a small boat near the far bank",
+        caption: "The spring-fed billabong. The 25-metre pool is a different body of water.",
+        credit: "Hangar O",
+        creditHref: "https://www.hangaro.com.au/",
+      },
+      {
+        src: "/photos/hangar-o-coffee.jpg",
+        alt: "An old green truck converted into a coffee stall, with a solar panel on the grass beside it",
+        caption: "The coffee truck. Guest notes keep coming back to the morning coffee.",
+        credit: "Hangar O",
+        creditHref: "https://www.hangaro.com.au/",
+      },
+    ],
+    summary:
+      "A 160-acre stop on the Bruce at Gunalda: unpowered camping, luxe tents, a creek, a spring-fed billabong and a 25-metre pool. Not Howard. Howard is the other review, an hour up the highway.",
+    aoraExperience:
+      "AORA has not logged a night at Hangar O. Do not read 8.1 as a swag test. It is a desk reading of what the operator publishes, and it moves after a crew actually sleeps there. On the page it is the highway version of a farm stay. One hundred and sixty acres, a creek, a billabong, a tiled lap pool with a toddler pool, unpowered grass at $50 for two, and canvas tents if someone in the crew will not camp. Dogs on a lead. Fires in the pits. The camp shower is a coin box in the pool complex, which is the mark that keeps it under Gootchie Creek, about fifteen kilometres north, until we have used both on the same run. The Bruce is the front road. That is easy. It is also why a quiet night is not guaranteed.",
+    verdict:
+      "A proper Gunalda stop if you want a pool and a fire without leaving the highway, or a luxe tent when the van stays hitched. It is not a cheap paddock, and it is not in Howard.",
+    bestFor:
+      "A mixed crew on the Bruce: some on unpowered grass with a dog, some in a tent with its own open-air shower, and a swim that does not depend on the creek.",
+    skipIf:
+      "You need a powered pedestal, a dog you can let off, or the adults-only decks at Howard. Also skip it if you still have the 2018 write-up in your head that said $10 and no power-and-water story. The camp is $50, and the tents cost more again.",
+    scores: [
+      { label: "Setting", value: 8.6 },
+      { label: "Value", value: 7.4 },
+      { label: "Mix", value: 8.4 },
+      { label: "Pets", value: 8.0 },
+      { label: "Access", value: 8.6 },
+    ],
+    sections: [
+      {
+        heading: "Gunalda, not Howard",
+        paragraphs: [
+          "Hangar O is at 2484 Bruce Highway, Gunalda, postcode 4570. The operator puts it about two hours north of Brisbane. Gympie is the town to the south, roughly twenty kilometres and a quarter of an hour. Maptons places the pin about a kilometre from the United servo at 2618 Bruce Highway, which matches an old camps note that said one kilometre south of that servo. Gootchie Creek Escape sits about fifteen kilometres north. If you searched “Hangar O Howard”, you have the wrong town. Gum Tree Lodge is the Howard stay.",
+          "The grounds are described as 160 acres, with a natural creek, a spring-fed billabong, and a 25-metre tiled lap pool with a toddler and relax pool. Visit Sunshine Coast and the Hipcamp listing still describe a 400-metre airstrip and a hangar, which is the name of the place. The logo still sells microlight flights. Nothing on the pricing page includes a flight in the night’s rate. Ask what is actually in the air the week you come.",
+        ],
+      },
+      {
+        heading: "What you can sleep in",
+        paragraphs: [
+          "The pricing page, checked November 2026, is short and specific. Unpowered campsites are $50 a night for up to two people, and $10 a person for children up to 16. Anyone over 16 is an adult on that tariff. Above the grass: a Tripod from $85 for two, a Billabox from $185 for two, couples luxe tents from $195 for up to two, family luxe tents from $245 for up to five, and a luxe studio from $245 for up to two. The page does not say what a Tripod or a Billabox is. Ask before you assume a cabin.",
+          "The luxe tents are the ones in the photographs: canvas on a deck, and the operator says each has its own open-air shower on gas hot water and a 12-volt solar system. That is not a 15-amp pedestal, and it is not the unpowered camp. The camp itself is grass on the western side of the creek in the Hipcamp description. Toilets are scattered through the campground. The hot shower for campers is coin-operated, inside the pool complex, and it takes $1 and $2 coins. If the only shower plan is that box at the pool, take coins.",
+        ],
+      },
+      {
+        heading: "Dogs, fires, and the rules that are written down",
+        paragraphs: [
+          "Pets with responsible owners are welcome. Dogs stay on a lead, and you pick up. They are not allowed in the pool complex or in areas the operator marks off. The boundary fence is post and barbed wire. The FAQ says it is not dog-proof. A dog that respects a lead is fine. A dog that tests fences is not.",
+          "Campfires are allowed in the communal pits. You can bring your own pit if it does not burn the ground, and leftover ash goes into a communal pit. Split hardwood is sold in 20–25 kg crates at $20. A Hipcamp extra has listed firewood cheaper. Budget the crate price on the operator’s FAQ.",
+          "Payment is due in full when you book. Change or cancel up to 72 hours ahead and you get a change, subject to availability, or a credit valid for up to 12 months. Inside 72 hours there is no credit. Weather and natural disaster are a credit, not a refund. Visit Sunshine Coast says disabled access is available if you contact the operator. Ring about the actual tent or the camp, not the slogan. The website phone is 0486 299 860, email hangaroqld@outlook.com. Older directories still print 0412 787 829. Use the number on the site.",
+        ],
+      },
+    ],
+    practical: [
+      { label: "Kind of stay", value: "Unpowered farm camp, plus luxe tents and named rooms" },
+      { label: "Camp rate", value: "$50 for two. Children 16 and under $10. Over 16 counts as an adult" },
+      { label: "Tents", value: "Couples from $195. Family and luxe studio from $245. Open-air shower, 12-volt solar" },
+      { label: "Also named", value: "Tripod from $85, Billabox from $185. Ask what they actually are" },
+      { label: "Shower", value: "Coin-operated hot shower in the pool complex. Takes $1 and $2 coins" },
+      { label: "Pets", value: "Yes, on a lead. Not in the pool complex. Fence is not dog-proof" },
+      { label: "Fires", value: "Communal pits, or your own if it does not burn the ground. Wood $20 a crate" },
+      { label: "Phone", value: "0486 299 860 · hangaroqld@outlook.com" },
+      { label: "Not this", value: "Howard. That is Gum Tree Lodge, a different stay" },
+    ],
+    pros: [
+      "On the Bruce, with a creek, a billabong and a real lap pool",
+      "A camp rate and a tent rate, so a mixed crew can split",
+      "Dogs and fires are written into the FAQ, not implied",
+      "Gootchie Creek is a short hop if this night is full",
+    ],
+    cons: [
+      "No academy night behind the number yet",
+      "The camp shower is a coin box, not a bathroom at the site",
+      "Camping is unpowered. Solar on a tent is not a pedestal",
+      "The fence will not hold a determined dog",
+      "Highway in front. Quiet is not the product",
+    ],
+    sources: [
+      "Hangar O website, pricing, FAQ and conditions, checked November 2026: 2484 Bruce Highway, Gunalda 4570, 0486 299 860, hangaroqld@outlook.com, camp and tent rates, pets, coin shower, fires, wood at $20, payment in full, 72-hour credit rule",
+      "Visit Sunshine Coast listing: 160 acres, creek, billabong, 25-metre pool, glamping, and disabled access by contacting the operator",
+      "Maptons place pin -26.0170354, 152.5628022, about 1 km from the United servo and about 15 km from Gootchie Creek Escape. A second directory sits within about 40 metres",
+      "Hipcamp listing: unpowered sites west of the creek, pets on a lead, 97 percent from about 145 reviews. Amenity lines there disagree in places with the operator FAQ. The FAQ wins",
+      "Camps Australia Wide, August 2018: the $10 night and the early ownership note. Kept only so you do not book from it",
+      "Photographs: Hangar O, the tents, the fire, the billabong and the coffee truck",
+    ],
+  },
+  {
+    slug: "gum-tree-lodge",
+    name: "Gum Tree Lodge",
+    aka: "Gum Tree Lodge and Bush Camp",
+    category: "camping",
+    subsection: "pet-camp",
+    also: ["farm-creek"],
+    region: "Howard, Fraser Coast",
+    state: "QLD",
+    address: "159 Howard Heights Road, Howard QLD 4659",
+    lat: -25.327603,
+    lng: 152.543106,
+    score: 8.2,
+    roadTested: false,
+    priceBand: "$",
+    priceNote:
+      "Until 31 May 2027, outside Easter: deck sites $49 a night for one or two people, bush sites $40 for two or $37 for one. Easter 2027 (25–29 March) is $59 on a deck and $50 for two or $47 for one on the bush. From 1 June to 3 October 2027, decks are $59 and bush sites $45 or $42. From 4 October to 24 December 2027, decks are $50 and bush sites $43 or $40. Christmas 2027 through 31 January 2028 matches the June rate. Online bookings take 5 percent off with the code THANKS. Four nights or more take 10 percent off automatically. A bottom-dam deck (sites 7–12) in November 2026 can stack a further 15 percent with code 7212 if you stay five nights. No check-in on Christmas Day.",
+    attributes: [
+      "powered",
+      "pets",
+      "dump-point",
+      "bush",
+      "campfire",
+      "two-wd",
+      "larger-rigs",
+      "week-plus",
+      "spa",
+    ],
+    photos: [
+      {
+        src: "/photos/gum-tree-deck.jpg",
+        alt: "A caravan parked on a timber deck over a dam, with a fountain and other vans along the far bank",
+        caption: "A deck site on the dam. You book the top dam or the bottom dam. A particular deck is not guaranteed.",
+        credit: "Gum Tree Lodge and Bush Camp",
+        creditHref: "https://gumtreebushcamp.com.au/photo-gallery",
+      },
+      {
+        src: "/photos/gum-tree-bush.jpg",
+        alt: "Caravans and motorhomes parked among gum trees on a wide bush clearing",
+        caption: "The bush sites. Power and water, and you pick a spot when you arrive.",
+        credit: "Gum Tree Lodge and Bush Camp",
+        creditHref: "https://gumtreebushcamp.com.au/photo-gallery",
+      },
+      {
+        src: "/photos/gum-tree-bottom-dam.jpg",
+        alt: "A dam edged with lily pads and small timber decks, bush on the far side",
+        caption: "Bottom-dam decks. Quieter, the operator says, and no fire on the deck or the ground around it.",
+        credit: "Gum Tree Lodge and Bush Camp",
+        creditHref: "https://gumtreebushcamp.com.au/photo-gallery",
+      },
+    ],
+    summary:
+      "An adults-only bush camp on 40 acres at Howard. Self-contained caravans and motorhomes only, dogs at no charge, and twelve powered decks on the dams. Not a tent park, and not a place for children.",
+    aoraExperience:
+      "AORA has not logged a night at Gum Tree Lodge. The 8.2 is a desk reading of a camp that publishes its rules in plain English, not a score from the annex. What the pages say is specific enough to judge. Self-contained caravans and motorhomes only, two people to a site, dogs and cats at no charge including on the decks, power and water on all fifty sites, a dump point, composting toilets, and twelve powered decks the operator calls the only dozen of their kind. No tents, no swags, no camp kitchen, no kids. Howard is three kilometres away when the bakery matters. The number sits where it does because the product matches one crew — a quiet van, a dog, a deck — and refuses everyone else. A night here would move it. The rules would not.",
+    verdict:
+      "The right Howard night if the rig has its own bathroom, the travellers are adults, and a dog is part of the booking. It is the wrong night for a tent, a family, or anyone who wanted a camp kitchen.",
+    bestFor:
+      "Two adults in a caravan or motorhome who want power, water, a dog on the deck, and a small town three kilometres off.",
+    skipIf:
+      "You are in a tent, a camper trailer or a swag, you are travelling with children, or you need more than two people on the site. Also skip the guest room if the dog has to sleep inside. Dogs are welcome in the guest suite and on every site. They are not welcome in the guest room.",
+    scores: [
+      { label: "Quiet", value: 9.0 },
+      { label: "Dogs", value: 9.2 },
+      { label: "Sites", value: 8.4 },
+      { label: "Facilities", value: 6.2 },
+      { label: "Value", value: 8.6 },
+    ],
+    sections: [
+      {
+        heading: "What they will not take",
+        paragraphs: [
+          "Gum Tree Lodge and Bush Camp is at 159 Howard Heights Road, Howard, 4659. Council rules, as the operator writes them, restrict the bush camp to caravans and motorhomes that have their own bathroom on board. No tents, no camper trailers, no swags, and no external ensuite or shower tent. Grey water can go onto the trees. You do not need a grey-water tank. There is a maximum of two people on a site.",
+          "It was built for over-50s travellers. In 2025 George and Debbie opened it to all adults in self-contained vans. They do not ask for ID. They do ask for mature and quiet. Scooters and loud noise are named as the thing that will not be tolerated. Children are not the booking. The operator’s own line is that there are plenty of family parks for that.",
+        ],
+      },
+      {
+        heading: "Decks, bush sites, and the thin facilities",
+        paragraphs: [
+          "Fifty sites, all with power and water. Thirty-eight are in the bush. You choose one of those on arrival, and you can park awning to awning if you came with friends. Grass depends on rain. The other twelve are deck sites, six around the two top dams and six on the bottom dam. Deck sites are booked ahead. You choose top dam or bottom dam. A particular deck is not guaranteed, and a booking can be moved so the decks stay full. The operator says the biggest rigs fit. Confirm the length anyway.",
+          "What they list as missing is the point of the tariff: no toilet block, no camp kitchen, no barbecue area, no laundry, no jumping pillow, no tour desk, and no pool for the sites. There are composting toilets and a dump point. A magnesium spa, installed in October 2025, is on the “we have” list and is heated to about 35 degrees in winter. The 15-metre magnesium lap pool is for lodge guests, not a van site. Do not arrive in the van expecting that pool.",
+          "Fires: pits through the property, bring your own wood, and summer restrictions can close them. The central fire pit is near deck 6, on the top dam. Bottom-dam decks 7 to 12 do not have that pit, and a personal fire is not allowed on a deck or on the ground around the decks. The bottom dam is the quieter one. It is also the one with a spot where a dog can be let off for a run and a swim. Everywhere else the dog is on a lead. There is no dog fee, and no separate dog area. Cats are welcome too. Most of them, the FAQ says, are never seen.",
+        ],
+      },
+      {
+        heading: "The lodge, the town, and the bill",
+        paragraphs: [
+          "The lodge is the older half of the name. A self-contained guest suite, king bed, ensuite, lounge and kitchen, takes a dog, and is booked on Airbnb. A separate guest room, queen, air-conditioning, a kitchenette and a deck toward the pool, does not take a dog. Neither of those is a cabin in the bush camp. The FAQ answer to “do you have cabins?” is no.",
+          "Howard is three kilometres across the Bruce Highway. Maryborough, Hervey Bay, Burrum Heads and Childers are all put at about half an hour. The operator names the Grand Hotel, the bakery and the grocer as the reason you do not need a camp kitchen. Pizza nights run on a Friday or a Saturday when the numbers are there. Check-in is 10.30am, check-out 10am. Phone or text 0401 447 119. Email gumtreelodgehoward@gmail.com. Older directories still show 0401 882 214. Use the number on the site.",
+          "Book the sites online, or ring. The code THANKS takes 5 percent off an online booking. Four nights or longer take 10 percent off on their own. For November 2026, code 7212 takes a further 15 percent off a bottom-dam deck if you stay five nights or more, online only, and the operator says that stacks toward about 25 percent with the long-stay discount. There is no check-in on Christmas Day. February 2027 is not a casual month: the rates page says the park is closed to arrivals after 1 February, with a four-week price that has to be done by phone. Read the minimum stay before you book months ahead. It can be longer than you wanted, and the advice on the page is to book closer in if you will not stay the minimum.",
+        ],
+      },
+    ],
+    practical: [
+      { label: "Kind of stay", value: "Adults-only. Caravans and motorhomes with their own bathroom" },
+      { label: "Not accepted", value: "Tents, camper trailers, swags, external ensuites, children" },
+      { label: "Sites", value: "50 powered, with water. 38 bush, chosen on arrival. 12 decks, booked" },
+      { label: "Current rate", value: "To 31 May 2027, ex Easter: decks $49, bush $40 for two or $37 single" },
+      { label: "Pets", value: "Dogs and cats, no fee, all sites and the guest suite. Not the guest room. Lead, except the bottom-dam run" },
+      { label: "Fires", value: "BYO wood. No personal fire on or around the decks. Central pit near deck 6" },
+      { label: "Facilities", value: "Dump point, composting toilets, spa. No camp kitchen, no site pool" },
+      { label: "Phone", value: "0401 447 119 · gumtreelodgehoward@gmail.com" },
+      { label: "Town", value: "Howard, 3 km. Bakery, pub and grocer. No Christmas Day check-in" },
+    ],
+    pros: [
+      "Dogs on every site, including the decks, with no fee",
+      "Power and water, a dump point, and a published rate that is still modest",
+      "The decks are a real product, not a slogan",
+      "Howard is three kilometres away, so the missing camp kitchen is a choice",
+      "The rules are written down, including who is not welcome",
+    ],
+    cons: [
+      "No academy night behind the number yet",
+      "No tents, no children, no second couple on the site",
+      "No camp kitchen, no laundry, no shower block",
+      "You cannot have a fire on a deck",
+      "A particular deck is not yours just because you asked",
+    ],
+    sources: [
+      "Gum Tree Lodge and Bush Camp, home, rates, FAQ and location pages, checked November 2026: 159 Howard Heights Road, adults only since the 2025 change, two people a site, dogs and cats, deck and bush rates through January 2028, THANKS and 7212, no Christmas Day check-in, February 2027 by phone, composting toilets, dump point, spa, no camp kitchen",
+      "ExplorOz place 519304: pin -25.327603, 152.543106, and 0401 447 119. The ExplorOz blurb still describes six decks. The operator site now says twelve. Trust the site for the count",
+      "MapQuest still lists 0401 882 214. That is the old directory number",
+      "Photographs: Gum Tree Lodge and Bush Camp gallery, the deck, the bush sites and the bottom dam. Generated images on the same site were not used",
+    ],
+  },
 ];
 

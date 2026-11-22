@@ -135,21 +135,27 @@ function StayPage() {
         <section className="mt-8">
           <h2 className="font-display text-2xl">How the score is reached</h2>
           <h3 className="mt-4 font-display text-xl">
-            Personal experience from{" "}
-            <Link to="/about" hash="dingo-dave" className="text-ember underline">
-              Dingo Dave
-            </Link>{" "}
-            and{" "}
-            <Link to="/about" hash="australian-offroad-academy" className="text-ember underline">
-              AORA
-            </Link>{" "}
-            travel and road trips
+            {stay.roadTested === false ? (
+              "Not a road-trip night yet"
+            ) : (
+              <>
+                Personal experience from{" "}
+                <Link to="/about" hash="dingo-dave" className="text-ember underline">
+                  Dingo Dave
+                </Link>{" "}
+                and{" "}
+                <Link to="/about" hash="australian-offroad-academy" className="text-ember underline">
+                  AORA
+                </Link>{" "}
+                travel and road trips
+              </>
+            )}
           </h3>
           <p className="mt-2 text-base leading-relaxed">{stay.aoraExperience}</p>
           <p className="mt-2 text-sm text-muted">
-            This is the first criterion, for this stay and for every stay that follows. The number starts
-            with how the place worked on an AORA road trip — the drive in, the sleep, and whether we would
-            send another crew. It is not an average of scraped stars.
+            {stay.roadTested === false
+              ? "No academy crew has slept here yet. The paragraph above is that fact, and the number is a reading of what the operator publishes until a road trip rewrites it. It is not an average of scraped stars."
+              : "This is the first criterion, for this stay and for every stay that follows. The number starts with how the place worked on an AORA road trip — the drive in, the sleep, and whether we would send another crew. It is not an average of scraped stars."}
           </p>
           <ul className="mt-4 flex flex-col gap-3">
             {stay.scores.map((row) => (
