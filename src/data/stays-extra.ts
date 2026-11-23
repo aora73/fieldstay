@@ -1741,6 +1741,12 @@ export const EXTRA_STAYS: Stay[] = [
     ],
     photos: [
       {
+        src: "/photos/noosa-river-retreat-parking.jpg",
+        alt: "Red Australian Offroad Academy Toyota Tundra parked under the carport at Noosa River Retreat, with the reception sign on the building behind",
+        caption: "The academy Tundra under the carport, November 2026. A high-clearance vehicle fits the bay that comes with the room.",
+        credit: "AORA, November 2026",
+      },
+      {
         src: "/photos/noosa-river-retreat-pool.jpg",
         alt: "Heated pool and round spa in the garden at Noosa River Retreat, with lounge chairs and the two-storey apartments behind",
         caption: "The pool and the spa, in the garden. Two people to an apartment, not a family resort.",
@@ -1765,7 +1771,7 @@ export const EXTRA_STAYS: Stay[] = [
     summary:
       "A staff favourite in Noosaville. One-bedroom apartments, a heated pool, and the river a short walk away. The reasons we use it are the location, the parking for a high-clearance vehicle, and managers who are easy to deal with.",
     aoraExperience:
-      "This is a favourite for AORA staff, and the reasons are practical. The location is Noosaville, which is the point: Gympie Terrace and the river foreshore are a short walk, the Noosa ferry is stop 5 about eight minutes on foot, and Hastings Street is a drive, not the reason you slept here. The car stays at the apartment. High-clearance parking is the second reason. One undercover bay comes with the booking. Oversized vehicles use the visitor spaces, in off Reef Street, not a basement and not a hunt along Hastings Street. If two tall vehicles are coming, ring first. The third reason is the management. They are on site, and they are friendly. Two people is the apartment, and that two includes a baby. It is not a family resort and it is not a dog stay. Weyba Road is the front street, so a standard apartment on that side will hear traffic. We would send a pair who want the river, a kitchen, and a vehicle that is still simple in the morning. We would not send a crew of four, a dog, or anyone who booked Noosa and meant the national park at the door.",
+      "This is a favourite for AORA staff, and the reasons are practical. The location is Noosaville, which is the point: Gympie Terrace and the river foreshore are a short walk, the Noosa ferry is stop 5 about eight minutes on foot, and Hastings Street is a drive, not the reason you slept here. The car stays at the apartment. High-clearance parking is the second reason. One undercover bay comes with the booking, and the academy Tundra, bar and tray, fits under that carport. Vehicles larger again use the visitor spaces, in off Reef Street. If two tall vehicles are coming, ring first. The third reason is the management. They are on site, and they are friendly. Two people is the apartment, and that two includes a baby. It is not a family resort and it is not a dog stay. Weyba Road is the front street, so a standard apartment on that side will hear traffic. We would send a pair who want the river, a kitchen, and a vehicle that is still simple in the morning. We would not send a crew of four, a dog, or anyone who booked Noosa and meant the national park at the door.",
     verdict:
       "The Noosaville base for two, when the vehicle is tall and Hastings Street is the wrong car park. Book direct, and do not bring a third person.",
     bestFor:
@@ -1797,7 +1803,7 @@ export const EXTRA_STAYS: Stay[] = [
       {
         heading: "The car, the pool, the rules",
         paragraphs: [
-          "Every booking includes one free undercover park. Dedicated visitor spaces are kept for oversized vehicles, entered from Reef Street. That is the high-clearance answer, and it is why staff use it. It is not a claim that a rooftop tent fits the undercover bay. The ordinary car uses the bay that comes with the room. The tall vehicle uses the visitor spaces. Two tall vehicles is a phone call.",
+          "Every booking includes one free undercover park, in off Reef Street. In November 2026 the academy Tundra was under that roof, bar and tray included, with reception on the same building. A high-clearance vehicle fits the bay that comes with the room. The FAQ still keeps visitor spaces for vehicles that are larger again. Two tall vehicles is a phone call. A rooftop tent has not been tried under that carport.",
           "The pool and the spa are heated all year, on the current facilities page. Older directory copy still says a solar pool and a gas spa. Either way it is a garden pool for two people after the river, not a water park. The barbecue is shared. Smoking and vaping are banned on the whole property. Pets are not allowed. A service animal is. Quiet is not guaranteed: they say the heart of Noosaville means traffic, and the standard apartments are the ones closest to the road. Parties are not the product.",
           "The FAQ is the cancellation that matters. Outside peak, cancel free until 7 days out. Inside 7 days, or a no-show, they charge the whole stay. Peak, which they define as Easter, the Noosa Tri, Christmas and New Year, school holidays and public holidays, moves that line to 14 days and the same full charge. A $50 fee sits on a refund they have to process. Full payment comes off the card 7 days out, or 14 in peak. No cash. American Express is about 2.75%. A $200 pre-authorisation is held at check-in and released after the keys and the inspection. Lost keys are $600, because they change the locks. Older room-page boxes still say you only lose the first night inside 7 days, and one of them says 28 days at Easter. Read the FAQ the week you book, and get the travel insurance they ask for. The pin on the map is the retreat’s own Google pin, not the centre of Weyba Road.",
         ],
@@ -1806,7 +1812,7 @@ export const EXTRA_STAYS: Stay[] = [
     practical: [
       { label: "Kind of stay", value: "One-bedroom apartment, self-catering, two people maximum" },
       { label: "Why staff use it", value: "Noosaville on foot, high-clearance parking, friendly managers" },
-      { label: "Parking", value: "One free undercover bay. Oversized vehicles use visitor spaces, in off Reef Street" },
+      { label: "Parking", value: "One free undercover bay, and it takes the academy Tundra. Larger again: visitor spaces off Reef Street" },
       { label: "Check-in", value: "From 2pm. Office closed Sunday and public holidays. Key box after hours" },
       { label: "Check-out", value: "10am. Late departure $49 if the room is free" },
       { label: "Pets", value: "No. Service animals yes" },
@@ -1815,7 +1821,7 @@ export const EXTRA_STAYS: Stay[] = [
     ],
     pros: [
       "Gympie Terrace and the river foreshore are a walk, and the car can stay put",
-      "Oversized-vehicle spaces, in off Reef Street, so a high-clearance park is simple",
+      "The undercover bay takes a high-clearance Tundra. Visitor spaces off Reef Street if the vehicle is larger again",
       "On-site managers, and they are easy to deal with",
       "A real kitchen, free Wi-Fi, and a pool that is heated all year",
       "Book direct. The site advertises a saving, even if the pages disagree on the percent",
@@ -1832,7 +1838,7 @@ export const EXTRA_STAYS: Stay[] = [
       "Noosa River Retreat facilities, FAQ, rooms and about pages, checked November 2026: 243 Weyba Road, vehicle entry Reef Street, (07) 5474 2811, nrr@noosariverretreat.com, two-guest maximum, oversized visitor parking, heated pool and spa, 7 kW guest charger, free SUPs, reception hours, $200 pre-authorisation, cancellation",
       "The same site does not agree with itself on the direct-book percent (10% on facilities, 5% on about) or, on older room pages, on whether a late cancel costs the first night or the whole stay. The FAQ is the line used here",
       "Map pin from the retreat’s own Google embed: -26.4012551, 153.0690389. A road search only returns the middle of Weyba Road",
-      "Photographs: Noosa River Retreat, the pool and spa, the Weyba Road front, and a bedroom",
+      "Photographs: AORA, November 2026, the academy Tundra under the carport; Noosa River Retreat, the pool and spa, the Weyba Road front, and a bedroom",
     ],
   },
 ];
