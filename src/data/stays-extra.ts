@@ -1609,6 +1609,12 @@ export const EXTRA_STAYS: Stay[] = [
     ],
     photos: [
       {
+        src: "/photos/punsand-bay-sunset.jpg",
+        alt: "Sunset through casuarina trees at Punsand Bay, a timber picnic table on the sand and a person with a camera on the deck",
+        caption: "The beach at sunset, November 2018. The bay is the view. The swim is the pool.",
+        credit: "AORA, November 2018",
+      },
+      {
         src: "/photos/punsand-bay-beach.jpg",
         alt: "Camper trailer and tents under trees on the beach at Punsand Bay, the sea behind the camp",
         caption: "Beachfront camping. This row is unpowered. The swim is the pool, not the bay.",
@@ -1701,7 +1707,7 @@ export const EXTRA_STAYS: Stay[] = [
       "Punsand Bay Cape York Camping, camping, cabins, facilities, FAQ, dining and road pages, checked November 2026: Lot 11 via Bamaga, (07) 4069 1722, frontdesk@capeyorkcamping.com.au, powered and unpowered sites, no camp kitchen, generator hours, four room types, pool, season notes, Tip drive times",
       "Camp note, March 2026: dogs on a lead, not in the restaurant, a limited number of rooms only if you ask, no swimming for dogs, crocodile cautions",
       "Campground GPS published with a 2020 site review: -10.721378, 142.463296. A gazetteer places the camp about 700 m west, at -10.71937, 142.45678. The bay centroid is a different point",
-      "Photographs: Eyes About Australia via the camp, beachfront sites; Punsand Bay Cape York Camping, powered sites and a beach tent",
+      "Photographs: AORA, November 2018, the beach at sunset; Eyes About Australia via the camp, beachfront sites; Punsand Bay Cape York Camping, powered sites and a beach tent",
     ],
   },
 ];
