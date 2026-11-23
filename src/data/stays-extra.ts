@@ -1710,6 +1710,131 @@ export const EXTRA_STAYS: Stay[] = [
       "Photographs: AORA, November 2018, the beach at sunset; Eyes About Australia via the camp, beachfront sites; Punsand Bay Cape York Camping, powered sites and a beach tent",
     ],
   },
+  {
+    slug: "noosa-river-retreat",
+    name: "Noosa River Retreat",
+    aka: "Noosa River Retreat Holiday Apartments",
+    category: "hotel",
+    subsection: "long-stay",
+    also: [],
+    region: "Noosaville, Noosa",
+    state: "QLD",
+    address: "243 Weyba Road, Noosaville QLD 4566",
+    lat: -26.4012551,
+    lng: 153.0690389,
+    score: 8.4,
+    priceBand: "$$",
+    priceNote:
+      "The site does not print one standing rate. A tourism listing has said from about $190 for two. Book direct: one page advertises 10% off, the about page says 5%. Ask which saving is live. Peak weeks set a minimum stay.",
+    attributes: [
+      "kitchen",
+      "laundry",
+      "wifi",
+      "parking",
+      "free-parking",
+      "ev",
+      "front-desk",
+      "pool",
+      "spa",
+      "no-pets",
+      "week-plus",
+    ],
+    photos: [
+      {
+        src: "/photos/noosa-river-retreat-pool.jpg",
+        alt: "Heated pool and round spa in the garden at Noosa River Retreat, with lounge chairs and the two-storey apartments behind",
+        caption: "The pool and the spa, in the garden. Two people to an apartment, not a family resort.",
+        credit: "Noosa River Retreat",
+        creditHref: "https://www.noosariverretreat.com/facilities/",
+      },
+      {
+        src: "/photos/noosa-river-retreat-front.jpg",
+        alt: "Street front of Noosa River Retreat on Weyba Road, shade sails and tropical planting in front of the apartments",
+        caption: "Weyba Road at the front. The vehicle entrance is Reef Street, not this footpath.",
+        credit: "Noosa River Retreat",
+        creditHref: "https://www.noosariverretreat.com/",
+      },
+      {
+        src: "/photos/noosa-river-retreat-room.jpg",
+        alt: "Bedroom in a Noosa River Retreat apartment, white linen, a sheer-curtained window and a ceiling fan",
+        caption: "One bedroom. The kitchen is in the living room, and daily housekeeping is not part of the rate.",
+        credit: "Noosa River Retreat",
+        creditHref: "https://www.noosariverretreat.com/rooms/",
+      },
+    ],
+    summary:
+      "A staff favourite in Noosaville. One-bedroom apartments, a heated pool, and the river a short walk away. The reasons we use it are the location, the parking for a high-clearance vehicle, and managers who are easy to deal with.",
+    aoraExperience:
+      "This is a favourite for AORA staff, and the reasons are practical. The location is Noosaville, which is the point: Gympie Terrace and the river foreshore are a short walk, the Noosa ferry is stop 5 about eight minutes on foot, and Hastings Street is a drive, not the reason you slept here. The car stays at the apartment. High-clearance parking is the second reason. One undercover bay comes with the booking. Oversized vehicles use the visitor spaces, in off Reef Street, not a basement and not a hunt along Hastings Street. If two tall vehicles are coming, ring first. The third reason is the management. They are on site, and they are friendly. Two people is the apartment, and that two includes a baby. It is not a family resort and it is not a dog stay. Weyba Road is the front street, so a standard apartment on that side will hear traffic. We would send a pair who want the river, a kitchen, and a vehicle that is still simple in the morning. We would not send a crew of four, a dog, or anyone who booked Noosa and meant the national park at the door.",
+    verdict:
+      "The Noosaville base for two, when the vehicle is tall and Hastings Street is the wrong car park. Book direct, and do not bring a third person.",
+    bestFor:
+      "A pair who want Gympie Terrace on foot, a kitchen, and an easy park for a high-clearance vehicle.",
+    skipIf:
+      "You are three or more, you have a dog, you need a silent room, or the booking was meant to be on Hastings Street.",
+    scores: [
+      { label: "Location", value: 9.3 },
+      { label: "Parking", value: 9.2 },
+      { label: "Hosts", value: 9.0 },
+      { label: "Apartment", value: 8.0 },
+      { label: "Quiet", value: 7.2 },
+    ],
+    sections: [
+      {
+        heading: "Noosaville, not Hastings Street",
+        paragraphs: [
+          "Noosa River Retreat is at 243 Weyba Road, Noosaville QLD 4566. The vehicle entrance is Reef Street. Phone (07) 5474 2811. Email nrr@noosariverretreat.com. The managers are on site. Reception is Monday to Thursday 9am to 5pm, Friday 9am to 3pm, Saturday 9am to noon. Sunday and public holidays the office is closed, and after-hours check-in is a key box once they have a direct mobile and email. If the booking came through someone else, give the retreat those details or the access message does not arrive.",
+          "Check-in is from 2pm, seven days. Ring with an ETA. Check-out is 10am. Late check-out is $49 if they have the room. Luggage can wait at reception if you are early. The foreshore and Gympie Terrace are a short walk. Ferry stop 5 at Terrace Marina is about eight minutes on foot. Woolworths and Aldi are a walk for the kitchen. Hastings Street, the main beach and the national park are about three and a half kilometres, a short drive, not the stroll. Local buses are nearby. They hire bikes at $20 a day, and the stand-up boards at the retreat are free. A 7 kW charger is on site for guests, not a public bay.",
+        ],
+      },
+      {
+        heading: "Two people, a kitchen, no daily service",
+        paragraphs: [
+          "Standard and superior are both one-bedroom apartments, ground floor or first floor, and there is no lift. Every one looks at the garden, the pool or both. The kitchen has a cooktop, microwave, full fridge, kettle, toaster and an Aldi-pod coffee machine. Some superior apartments add an oven and a dishwasher. Two televisions, air-conditioning, a ceiling fan, and free Wi-Fi, with the password in the guidebook. The first night includes a small wash kit. Pool towels are $5 for the stay, from reception. They are self-catering and non-serviced. Do not expect a daily clean.",
+          "Two guests is the maximum, and that count includes a teenager, a child or a baby. Their FAQ says they do not take Schoolies, and they do not take anyone under 18 without an adult. Booking sites currently go further and say children are not allowed and check-in is 18. If the second person is under 18, book direct and say so before you travel. Twin beds exist in two apartments, $40 for the stay if you ask when you book. Older room pages still say one apartment and “per stay or week”. The FAQ is the line to use. A tourism page that still says the place suits small families is out of date.",
+        ],
+      },
+      {
+        heading: "The car, the pool, the rules",
+        paragraphs: [
+          "Every booking includes one free undercover park. Dedicated visitor spaces are kept for oversized vehicles, entered from Reef Street. That is the high-clearance answer, and it is why staff use it. It is not a claim that a rooftop tent fits the undercover bay. The ordinary car uses the bay that comes with the room. The tall vehicle uses the visitor spaces. Two tall vehicles is a phone call.",
+          "The pool and the spa are heated all year, on the current facilities page. Older directory copy still says a solar pool and a gas spa. Either way it is a garden pool for two people after the river, not a water park. The barbecue is shared. Smoking and vaping are banned on the whole property. Pets are not allowed. A service animal is. Quiet is not guaranteed: they say the heart of Noosaville means traffic, and the standard apartments are the ones closest to the road. Parties are not the product.",
+          "The FAQ is the cancellation that matters. Outside peak, cancel free until 7 days out. Inside 7 days, or a no-show, they charge the whole stay. Peak, which they define as Easter, the Noosa Tri, Christmas and New Year, school holidays and public holidays, moves that line to 14 days and the same full charge. A $50 fee sits on a refund they have to process. Full payment comes off the card 7 days out, or 14 in peak. No cash. American Express is about 2.75%. A $200 pre-authorisation is held at check-in and released after the keys and the inspection. Lost keys are $600, because they change the locks. Older room-page boxes still say you only lose the first night inside 7 days, and one of them says 28 days at Easter. Read the FAQ the week you book, and get the travel insurance they ask for. The pin on the map is the retreat’s own Google pin, not the centre of Weyba Road.",
+        ],
+      },
+    ],
+    practical: [
+      { label: "Kind of stay", value: "One-bedroom apartment, self-catering, two people maximum" },
+      { label: "Why staff use it", value: "Noosaville on foot, high-clearance parking, friendly managers" },
+      { label: "Parking", value: "One free undercover bay. Oversized vehicles use visitor spaces, in off Reef Street" },
+      { label: "Check-in", value: "From 2pm. Office closed Sunday and public holidays. Key box after hours" },
+      { label: "Check-out", value: "10am. Late departure $49 if the room is free" },
+      { label: "Pets", value: "No. Service animals yes" },
+      { label: "Pool", value: "Heated all year, with a spa. Pool towels $5 a stay" },
+      { label: "Phone", value: "(07) 5474 2811 · nrr@noosariverretreat.com" },
+    ],
+    pros: [
+      "Gympie Terrace and the river foreshore are a walk, and the car can stay put",
+      "Oversized-vehicle spaces, in off Reef Street, so a high-clearance park is simple",
+      "On-site managers, and they are easy to deal with",
+      "A real kitchen, free Wi-Fi, and a pool that is heated all year",
+      "Book direct. The site advertises a saving, even if the pages disagree on the percent",
+    ],
+    cons: [
+      "Two people, and that includes a baby. Not a family booking",
+      "No dogs",
+      "Weyba Road is audible. The standard apartments are closest to it",
+      "No lift, and no daily housekeeping",
+      "The direct-book discount and the old room-page cancellation lines do not match the FAQ",
+    ],
+    sources: [
+      "Australian Offroad Academy, November 2026: a staff favourite for the Noosaville location, high-clearance parking, and friendly management",
+      "Noosa River Retreat facilities, FAQ, rooms and about pages, checked November 2026: 243 Weyba Road, vehicle entry Reef Street, (07) 5474 2811, nrr@noosariverretreat.com, two-guest maximum, oversized visitor parking, heated pool and spa, 7 kW guest charger, free SUPs, reception hours, $200 pre-authorisation, cancellation",
+      "The same site does not agree with itself on the direct-book percent (10% on facilities, 5% on about) or, on older room pages, on whether a late cancel costs the first night or the whole stay. The FAQ is the line used here",
+      "Map pin from the retreat’s own Google embed: -26.4012551, 153.0690389. A road search only returns the middle of Weyba Road",
+      "Photographs: Noosa River Retreat, the pool and spa, the Weyba Road front, and a bedroom",
+    ],
+  },
 ];
 
 
