@@ -1841,6 +1841,128 @@ export const EXTRA_STAYS: Stay[] = [
       "Photographs: AORA, November 2026, the academy Tundra under the carport; Noosa River Retreat, the pool and spa, the Weyba Road front, and a bedroom",
     ],
   },
+  {
+    slug: "horizons-lake-jindabyne",
+    name: "Horizons Lake Jindabyne",
+    aka: "Rydges Horizons Snowy Mountains",
+    category: "hotel",
+    subsection: "long-stay",
+    also: [],
+    region: "Snowy Mountains, Jindabyne",
+    state: "NSW",
+    address: "10 Kosciuszko Road, Jindabyne NSW 2627",
+    lat: -36.414972,
+    lng: 148.616974,
+    score: 8.5,
+    priceBand: "$$",
+    priceNote:
+      "No standing rate on the apartment pages. Snow weeks and summer bike weekends are the dear nights. A Rydges banner advertises chain stay-longer deals. That is not a Horizons price until the dates on the booking say so. Studios are priced on two adults. A third person is extra.",
+    attributes: [
+      "kitchen",
+      "laundry",
+      "wifi",
+      "parking",
+      "free-parking",
+      "ev",
+      "accessible",
+      "front-desk",
+      "pool",
+      "gym",
+      "week-plus",
+    ],
+    photos: [
+      {
+        src: "/photos/horizons-lake-jindabyne.jpg",
+        alt: "Dusk aerial of Horizons Lake Jindabyne, the resort beside Kosciuszko Road with Lake Jindabyne and the ranges behind",
+        caption: "The resort on Kosciuszko Road, the lake on the other side of the building.",
+        credit: "Horizons Lake Jindabyne",
+        creditHref: "https://www.rydges.com/accommodation/snowy-mountains-nsw/horizons-lake-jindabyne/",
+      },
+      {
+        src: "/photos/horizons-lake-jindabyne-lake.jpg",
+        alt: "Daytime panorama of Horizons Lake Jindabyne and the lake, with the ranges across the water",
+        caption: "The lake is the year-round ride. Thredbo, 34 kilometres up the road, is the summer one.",
+        credit: "Horizons Lake Jindabyne",
+        creditHref: "https://www.rydges.com/accommodation/snowy-mountains-nsw/horizons-lake-jindabyne/",
+      },
+    ],
+    summary:
+      "A favourite in Jindabyne. Self-contained apartments on the lake, undercover parking included, and mountain-bike trails that work in winter around the water and in summer up at Thredbo.",
+    aoraExperience:
+      "AORA and Dingo Dave have stayed, and it is a favourite. The apartment is the practical half: a kitchen, a washer and dryer, and a balcony, so a wet riding kit does not own the room and dinner does not depend on a restaurant being open. The other half is the bikes. Town and the lake foreshore are the year-round loops. The lower Thredbo Valley Track, from Gaden Bridge out to the Thredbo River picnic area, is the piece that stays open when the high country closes. Do not ride it wet, and check National Parks before you roll. Summer is the reason to book it if the bikes are the trip. Thredbo Mountain Bike Park is the hotel’s 34 kilometres up to those slopes, and it opened for this summer on 21 November 2026, a bit over 40 kilometres of terrain. Winter up there is skis, not lift-served trails. The bigger networks still being built around the lake are not a reason to come until the signs say they are open. We would send a pair or a small crew who want the lake and a real kitchen. We would not send a dog, or anyone who booked July and expected the bike park.",
+    verdict:
+      "The Jindabyne base when the bikes matter, and especially in summer. Book the view you actually want, and do not treat every trail on the map as open.",
+    bestFor:
+      "Riders who want a kitchen, a free undercover park, lake trails all year, and Thredbo in the green season.",
+    skipIf:
+      "You need a pet room, a brand-new hotel, or lift-served trails in the middle of winter.",
+    scores: [
+      { label: "Trails", value: 9.2 },
+      { label: "Lake", value: 9.0 },
+      { label: "Apartment", value: 8.2 },
+      { label: "Parking", value: 8.4 },
+      { label: "Food", value: 7.4 },
+    ],
+    sections: [
+      {
+        heading: "Lake trails all year, Thredbo in summer",
+        paragraphs: [
+          "Horizons Lake Jindabyne is at 10 Kosciuszko Road, Jindabyne NSW 2627. The hotel’s own pages still print the older spelling, Kosciusko, without the z. Phone (02) 6456 2562. Reservations are reservations_horizonslakejindabyne@evt.com. Older pages still call it Rydges Horizons Snowy Mountains. Same building. The pin is the hotel’s own Google pin, not the middle of the road.",
+          "The riding is why it is a favourite, and it is not one season. The amenities page tells you to hire a bike at the hotel and ride around the lake into town. That foreshore loop, and the lower Thredbo Valley Track from Gaden Bridge to the Thredbo River picnic area, are the year-round product. A 2026 trail guide is blunt about the rest of the Thredbo Valley Track: it closes for winter, and it can close for maintenance or pest control. Wet weather is a reason to stay off it even when the gate is open. Summer is the other ride. The hotel says the Thredbo slopes are 34 kilometres away. Thredbo’s own note for this season is that the mountain-bike park opened on 21 November 2026, with a bit over 40 kilometres of terrain and about seven hours of riding a day. Allow longer than a fine-day drive when the Alpine Way is white, or when every car in Sydney has the same idea.",
+          "Do not book the unfinished kilometres. Jindabyne is building toward about 50 kilometres of shared trail, including a link into East Jindabyne, with new sections aimed at the end of the 2026 summer. The NSW mountain-bike and adventure park off Alpine Way, up to 60 kilometres on the master plan, is a project, not a trailhead you can roll out of the car park tomorrow. The hotel also sits next to a disc-golf course, with discs for hire at reception, and a tennis court with rackets and balls at the desk.",
+        ],
+      },
+      {
+        heading: "An apartment, not a hotel room",
+        paragraphs: [
+          "The current apartment list is a studio, a king room apartment, and a two-bedroom. They are self-contained. The hotel’s older rooms page says every apartment has a balcony, a full kitchen, a washing machine and dryer, linen, a television, and a bathroom with a bath or a shower. Layouts vary, and that line is on the room pages for a reason.",
+          "The studio page is open plan, a queen and a single sofa bed, with a bath or a shower, and shower only on the ground floor. A booking listing caps that studio at three people, whatever their age, and prices it on two adults. The king room is the one-bedroom: a queen or a king plus a double sofa bed, lake or lake-and-mountain views, and the older page says one-bedrooms usually look at the mountains or an obstructed lake. Ask for the lake if the lake is why you came. The two-bedroom is split level. The master has a king or a queen and a spa ensuite, with a balcony off that room. The second bedroom has two singles. A double sofa in the lounge is not in every one of them. Extra guests are extra. A listing quotes a rollaway around $40. That is a listing, not a tariff printed on the hotel page.",
+          "Accessible rooms are on the ground floor: roll-in showers, an in-shower bench, wider doors and walkways. There is no lift mentioned. Free Wi-Fi is on the amenities list.",
+        ],
+      },
+      {
+        heading: "The car, the pool, the nights Embers is shut",
+        paragraphs: [
+          "Complimentary undercover self-parking comes with each room. Reception points you at the bay. The amenities page also says free recharging in Tesla charging bays. That is their wording. Ask if the car is not a Tesla. The home page still carries a construction note dated 6 January 2025: the owners corporation was working on the beer garden, external walkways, and some parking under the main building, and the works were on the main building, not the accommodation blocks. The page does not give an end date. Ring if a particular undercover bay is the point of the booking. Nothing on the site says a rooftop tent fits that bay.",
+          "The pool is a saltwater indoor pool, heated, and the hotel calls it a year-round swim. There is a gym with weights and cardio. Check-in times do not agree across the listings: one says from 3pm, another from 4pm, and both say out by 10am. The hotel home page we read did not print the clock. Ring with an ETA.",
+          "Embers Fireside Restaurant is dinner, Tuesday to Saturday from 5.30pm, and they ask you to book on (02) 6456 2562. Squires Cocktail Bar and the beer garden are the other venue. That is not seven nights, which is why the kitchen in the apartment matters. Breakfast is not written into the apartment pages. A booking listing that says breakfast is free is not the hotel tariff. Pets are the same kind of gap: the hotel pages we read do not print a rule, and an Expedia-style listing says pets are not allowed and service animals are. Ask before you arrive with a dog. The map pin is -36.414972, 148.616974.",
+        ],
+      },
+    ],
+    practical: [
+      { label: "Kind of stay", value: "Self-contained apartments. Studio, king, or two-bedroom" },
+      { label: "Why it is a favourite", value: "Lake trails all year. Thredbo bike park in summer. A kitchen and a free park" },
+      { label: "Thredbo", value: "34 km to the slopes, the hotel’s figure. Bike park opened 21 November 2026" },
+      { label: "Parking", value: "Complimentary undercover bay per room. Tesla charging bays, their wording" },
+      { label: "Pool", value: "Indoor, saltwater, heated, year round" },
+      { label: "Dinner", value: "Embers, Tuesday to Saturday from 5.30pm. Book it" },
+      { label: "Check-in", value: "Listings say 3pm or 4pm, out by 10am. The hotel page does not print it" },
+      { label: "Phone", value: "(02) 6456 2562 · reservations_horizonslakejindabyne@evt.com" },
+      { label: "Pets", value: "Not on the hotel pages. A listing says no. Ask" },
+    ],
+    pros: [
+      "Lake and foreshore trails at the door, including the lower Thredbo Valley Track that stays open in winter",
+      "Summer adds Thredbo Mountain Bike Park, 34 kilometres up the road",
+      "A real kitchen, a washer and dryer, and a balcony",
+      "Undercover parking included, and an indoor heated pool",
+      "Town and Nuggets Crossing are a walk, so the car can stay put after the ride",
+    ],
+    cons: [
+      "The high-country trails and the Thredbo bike park are a summer product. July is skis",
+      "Embers is Tuesday to Saturday. Sunday is the kitchen in the apartment",
+      "The home page still shows a January 2025 construction note over some parking and the beer garden",
+      "Not every apartment faces the lake. Ask for the one that does",
+      "A dog is an unanswered question on the hotel pages, and a listing says no",
+    ],
+    sources: [
+      "Dingo Dave, Australian Offroad Academy, written November 2026: a favourite stay. Lake trails year round, Thredbo in summer, a kitchen and undercover parking. No invented night, and no claim that a rooftop tent fits the bay",
+      "Horizons Lake Jindabyne home, amenities, parking, apartment and Embers pages, checked November 2026: 10 Kosciuszko Road (also printed Kosciusko), (02) 6456 2562, reservations_horizonslakejindabyne@evt.com, studio, king and two-bedroom, complimentary undercover parking, Tesla charging bays, indoor heated saltwater pool, gym, bike hire, disc golf and tennis hire, Embers Tuesday to Saturday from 5.30pm, 34 km to Thredbo, January 2025 construction note still on the home page",
+      "The hotel pages do not print check-in, a pet rule, a standing rate, or whether breakfast is included. Listings disagree on 3pm or 4pm check-in and say pets are not allowed. Those lines are flagged as listings",
+      "Thredbo, November 2026: mountain-bike park opened for summer on 21 November, a bit over 40 km of terrain. We Are Explorers, January 2026: only the lower Thredbo Valley Track stays open all year. Flow Mountain Bike, February 2026: the shared-trail build toward 50 km was still underway, with East Jindabyne sections aimed at the end of the 2026 summer. NSW Government: the Jindabyne Mountain Bike and Adventure Park is a master plan, not an open trailhead",
+      "Map pin from the hotel’s own Google link for Rydges Horizons Snowy Mountains: -36.4149723, 148.6169744",
+      "Photographs: Horizons Lake Jindabyne, the resort and the lake at dusk, and the lake in the day",
+    ],
+  },
 ];
 
 
