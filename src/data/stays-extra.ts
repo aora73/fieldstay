@@ -1856,7 +1856,7 @@ export const EXTRA_STAYS: Stay[] = [
     score: 8.5,
     priceBand: "$$",
     priceNote:
-      "No standing rate on the apartment pages. Snow weeks and summer bike weekends are the dear nights. A Rydges banner advertises chain stay-longer deals. That is not a Horizons price until the dates on the booking say so. Studios are priced on two adults. A third person is extra.",
+      "No standing rate on the apartment pages. Snow weeks and summer weekends are the dear nights. A Rydges banner advertises chain stay-longer deals. That is not a Horizons price until the dates on the booking say so. Studios are priced on two adults. A third person is extra.",
     attributes: [
       "kitchen",
       "laundry",
@@ -1881,23 +1881,23 @@ export const EXTRA_STAYS: Stay[] = [
       {
         src: "/photos/horizons-lake-jindabyne-lake.jpg",
         alt: "Daytime panorama of Horizons Lake Jindabyne and the lake, with the ranges across the water",
-        caption: "The lake is the year-round ride. Thredbo, 34 kilometres up the road, is the summer one.",
+        caption: "Jindabyne and the lake. Thredbo is 34 kilometres up the road, not the place you sleep.",
         credit: "Horizons Lake Jindabyne",
         creditHref: "https://www.rydges.com/accommodation/snowy-mountains-nsw/horizons-lake-jindabyne/",
       },
     ],
     summary:
-      "A favourite in Jindabyne. Self-contained apartments on the lake, undercover parking included, and mountain-bike trails that work in winter around the water and in summer up at Thredbo.",
+      "A favourite because it is in Jindabyne, not up the mountain. The lake is beside the building, the shops are a walk, and Thredbo is 34 kilometres when you want it.",
     aoraExperience:
-      "AORA and Dingo Dave have stayed, and it is a favourite. The apartment is the practical half: a kitchen, a washer and dryer, and a balcony, so a wet riding kit does not own the room and dinner does not depend on a restaurant being open. The other half is the bikes. Town and the lake foreshore are the year-round loops. The lower Thredbo Valley Track, from Gaden Bridge out to the Thredbo River picnic area, is the piece that stays open when the high country closes. Do not ride it wet, and check National Parks before you roll. Summer is the reason to book it if the bikes are the trip. Thredbo Mountain Bike Park is the hotel’s 34 kilometres up to those slopes, and it opened for this summer on 21 November 2026, a bit over 40 kilometres of terrain. Winter up there is skis, not lift-served trails. The bigger networks still being built around the lake are not a reason to come until the signs say they are open. We would send a pair or a small crew who want the lake and a real kitchen. We would not send a dog, or anyone who booked July and expected the bike park.",
+      "AORA and Dingo Dave have stayed, and it is a favourite for where it sits. Jindabyne is the town you sleep in. The lake is beside the building, Nuggets Crossing and the rest of town are a walk, and the car can stay put until the day actually needs it. Thredbo is 34 kilometres up Kosciuszko Road, the hotel’s own figure, and Perisher is the other road out of the same town. You are not staying in a ski village and driving down for bread. The apartment is the other half of it: a kitchen, a washer and dryer, and a balcony, so a wet day does not depend on Embers being open. Bikes belong to the place without being the reason. Hire one and ride the lake into town any month. The lower Thredbo Valley Track stays open when the high country closes. Summer is when the Thredbo bike park, the same 34 kilometres, becomes the day trip. We would send a pair or a small crew who want the town, the lake, and a real kitchen. We would not send a dog, or anyone who booked a lodge in the snow and meant the village.",
     verdict:
-      "The Jindabyne base when the bikes matter, and especially in summer. Book the view you actually want, and do not treat every trail on the map as open.",
+      "The Jindabyne base. Lake at the door, town on foot, mountains a short drive. Book the view you actually want.",
     bestFor:
-      "Riders who want a kitchen, a free undercover park, lake trails all year, and Thredbo in the green season.",
+      "A pair or a small crew who want to sleep in Jindabyne, walk to the shops, and drive to the snow or the park when the day calls for it.",
     skipIf:
-      "You need a pet room, a brand-new hotel, or lift-served trails in the middle of winter.",
+      "You need a pet room, a brand-new hotel, or a bed in Thredbo village rather than the town below it.",
     scores: [
-      { label: "Trails", value: 9.2 },
+      { label: "Location", value: 9.3 },
       { label: "Lake", value: 9.0 },
       { label: "Apartment", value: 8.2 },
       { label: "Parking", value: 8.4 },
@@ -1905,11 +1905,11 @@ export const EXTRA_STAYS: Stay[] = [
     ],
     sections: [
       {
-        heading: "Lake trails all year, Thredbo in summer",
+        heading: "In Jindabyne, not up the mountain",
         paragraphs: [
           "Horizons Lake Jindabyne is at 10 Kosciuszko Road, Jindabyne NSW 2627. The hotel’s own pages still print the older spelling, Kosciusko, without the z. Phone (02) 6456 2562. Reservations are reservations_horizonslakejindabyne@evt.com. Older pages still call it Rydges Horizons Snowy Mountains. Same building. The pin is the hotel’s own Google pin, not the middle of the road.",
-          "The riding is why it is a favourite, and it is not one season. The amenities page tells you to hire a bike at the hotel and ride around the lake into town. That foreshore loop, and the lower Thredbo Valley Track from Gaden Bridge to the Thredbo River picnic area, are the year-round product. A 2026 trail guide is blunt about the rest of the Thredbo Valley Track: it closes for winter, and it can close for maintenance or pest control. Wet weather is a reason to stay off it even when the gate is open. Summer is the other ride. The hotel says the Thredbo slopes are 34 kilometres away. Thredbo’s own note for this season is that the mountain-bike park opened on 21 November 2026, with a bit over 40 kilometres of terrain and about seven hours of riding a day. Allow longer than a fine-day drive when the Alpine Way is white, or when every car in Sydney has the same idea.",
-          "Do not book the unfinished kilometres. Jindabyne is building toward about 50 kilometres of shared trail, including a link into East Jindabyne, with new sections aimed at the end of the 2026 summer. The NSW mountain-bike and adventure park off Alpine Way, up to 60 kilometres on the master plan, is a project, not a trailhead you can roll out of the car park tomorrow. The hotel also sits next to a disc-golf course, with discs for hire at reception, and a tennis court with rackets and balls at the desk.",
+          "The point of the place is that it is in the town. Coming up from Cooma, the hotel’s directions are 23 kilometres on the Snowy Mountains Highway, then 27 kilometres on Kosciuszko Road, and the building is just through town. Cooma’s airport is the winter flying option they name. The lake is beside the apartments. Listings put Nuggets Crossing a couple of minutes on foot, and the lake shore a short walk the other way, so bread, dinner and a loop of the foreshore do not need the car. Thredbo is 34 kilometres up the same road, the hotel’s figure, and Perisher is the other way out of Jindabyne. You sleep here and drive to the snow, the national park, or a boat ramp. You do not sleep in a village and come down for the supermarket. Allow longer when the Alpine Way is white, or when every car from Sydney has the same idea.",
+          "Bikes are part of that geography, not a separate product. Hire one at the hotel and ride the lake into town in any month. The lower Thredbo Valley Track, from Gaden Bridge to the Thredbo River picnic area, is the piece that stays open when the high country closes. Do not ride it wet, and check National Parks before you roll. In summer the Thredbo bike park is the same 34 kilometre drive, and it opened for this season on 21 November 2026. The bigger trail projects still being built around the lake are not a reason to book. The hotel also sits next to a disc-golf course, with discs for hire at reception, and a tennis court with rackets and balls at the desk.",
         ],
       },
       {
@@ -1931,8 +1931,8 @@ export const EXTRA_STAYS: Stay[] = [
     ],
     practical: [
       { label: "Kind of stay", value: "Self-contained apartments. Studio, king, or two-bedroom" },
-      { label: "Why it is a favourite", value: "Lake trails all year. Thredbo bike park in summer. A kitchen and a free park" },
-      { label: "Thredbo", value: "34 km to the slopes, the hotel’s figure. Bike park opened 21 November 2026" },
+      { label: "Why it is a favourite", value: "In Jindabyne, on the lake. Shops on foot. Mountains a short drive" },
+      { label: "Thredbo", value: "34 km up the road, the hotel’s figure. Not the place you sleep" },
       { label: "Parking", value: "Complimentary undercover bay per room. Tesla charging bays, their wording" },
       { label: "Pool", value: "Indoor, saltwater, heated, year round" },
       { label: "Dinner", value: "Embers, Tuesday to Saturday from 5.30pm. Book it" },
@@ -1941,21 +1941,21 @@ export const EXTRA_STAYS: Stay[] = [
       { label: "Pets", value: "Not on the hotel pages. A listing says no. Ask" },
     ],
     pros: [
-      "Lake and foreshore trails at the door, including the lower Thredbo Valley Track that stays open in winter",
-      "Summer adds Thredbo Mountain Bike Park, 34 kilometres up the road",
+      "In Jindabyne itself. The lake is beside the building and the shops are a walk",
+      "Thredbo is 34 kilometres when you want the mountain, not a second drive down for bread",
       "A real kitchen, a washer and dryer, and a balcony",
       "Undercover parking included, and an indoor heated pool",
-      "Town and Nuggets Crossing are a walk, so the car can stay put after the ride",
+      "A bike from the hotel does the lake and the town. Summer adds the Thredbo bike park on that same drive",
     ],
     cons: [
-      "The high-country trails and the Thredbo bike park are a summer product. July is skis",
+      "It is a town hotel on Kosciuszko Road, not a lodge in the snow. The 34 kilometres still has to be driven",
       "Embers is Tuesday to Saturday. Sunday is the kitchen in the apartment",
       "The home page still shows a January 2025 construction note over some parking and the beer garden",
       "Not every apartment faces the lake. Ask for the one that does",
       "A dog is an unanswered question on the hotel pages, and a listing says no",
     ],
     sources: [
-      "Dingo Dave, Australian Offroad Academy, written November 2026: a favourite stay. Lake trails year round, Thredbo in summer, a kitchen and undercover parking. No invented night, and no claim that a rooftop tent fits the bay",
+      "Dingo Dave, Australian Offroad Academy, written November 2026: a favourite for the Jindabyne location. Lake beside the building, town on foot, Thredbo 34 km when the day needs it. Bikes are noted, not the reason. No invented night, and no claim that a rooftop tent fits the bay",
       "Horizons Lake Jindabyne home, amenities, parking, apartment and Embers pages, checked November 2026: 10 Kosciuszko Road (also printed Kosciusko), (02) 6456 2562, reservations_horizonslakejindabyne@evt.com, studio, king and two-bedroom, complimentary undercover parking, Tesla charging bays, indoor heated saltwater pool, gym, bike hire, disc golf and tennis hire, Embers Tuesday to Saturday from 5.30pm, 34 km to Thredbo, January 2025 construction note still on the home page",
       "The hotel pages do not print check-in, a pet rule, a standing rate, or whether breakfast is included. Listings disagree on 3pm or 4pm check-in and say pets are not allowed. Those lines are flagged as listings",
       "Thredbo, November 2026: mountain-bike park opened for summer on 21 November, a bit over 40 km of terrain. We Are Explorers, January 2026: only the lower Thredbo Valley Track stays open all year. Flow Mountain Bike, February 2026: the shared-trail build toward 50 km was still underway, with East Jindabyne sections aimed at the end of the 2026 summer. NSW Government: the Jindabyne Mountain Bike and Adventure Park is a master plan, not an open trailhead",
