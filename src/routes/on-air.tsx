@@ -34,6 +34,7 @@ const SHOWS: Show[] = [
   {
     id: "whats-up-downunder",
     name: "What's Up Downunder",
+    note: "Network 10's public pages for this show do not write these names. The K'gari story below is on the show's own site.",
     mentions: [
       {
         date: "15 June 2016",
@@ -72,25 +73,25 @@ const SHOWS: Show[] = [
   {
     id: "creek-to-coast",
     name: "Creek to Coast",
-    note: "No working public mention. A 2019 upload titled Creek to Coast Dunga Derby story names Dave Darmody in a description search engines still quote. The video is not available, so it is not linked.",
+    note: "No working public mention. A 2019 upload titled Creek to Coast Dunga Derby story names Dave Darmody in a description search engines still quote. The video is not available, so it is not linked. The 7plus catalogue was read in full and does not name him, Dingo Dave or the academy. The only dingo in those episode stories is pro surfer Dingo Morrison.",
     mentions: [],
   },
   {
     id: "great-south-east",
     name: "Great South East",
-    note: "No working public mention on the show site, an episode story, or a YouTube description.",
+    note: "No working public mention on the show site, an episode story, or a YouTube description. Great South East is not on 7plus.",
     mentions: [],
   },
   {
     id: "qld-weekender",
     name: "Qld Weekender",
-    note: "No working public mention on the show site, an episode story, or a YouTube description. Searched as Qld Weekender and Queensland Weekender.",
+    note: "No working public mention on the show site, an episode story, or a YouTube description. Searched as Qld Weekender and Queensland Weekender. The 7plus catalogues for both were read and do not name them.",
     mentions: [],
   },
   {
     id: "offroad-adventure-show",
     name: "Offroad Adventure Show",
-    note: "Episode stories below are the blurbs still published with the show on Plex. The old show domain now parks a sales page and does not name anyone, so it is not linked. Clips on the academy's own channel that say they first aired on this show are not listed here.",
+    note: "Episode stories below are the blurbs still published with the show on Plex. The old show domain now parks a sales page and does not name anyone, so it is not linked. Clips on the academy's own channel that say they first aired on this show are not listed here. Network 10's public show page names Leash, Borgy, Jillaroo Jess and Jamie Hazelden. It does not name Dingo Dave, Dave Darmody or the academy, so that page is not linked.",
     mentions: [
       {
         date: "16 October 2016",
@@ -182,7 +183,7 @@ const SHOWS: Show[] = [
   {
     id: "great-australian-doorstep",
     name: "Great Australian Doorstep",
-    note: "No working public mention on the show site, an episode story, or a YouTube description.",
+    note: "No working public mention on the show site, an episode story, or a YouTube description. The 7plus catalogue was read and does not name them.",
     mentions: [],
   },
 ];
@@ -203,6 +204,11 @@ function OnAirPage() {
           Checked November 2026 across What's Up Downunder, Creek to Coast, Great South East, Qld
           Weekender, the Offroad Adventure Show and Great Australian Doorstep. {found} links. A name
           spoken on a tape, and never written in a story or a description, is not in this index.
+          Channel 7's 7plus catalogues for Creek to Coast, Queensland Weekender, Weekender and The
+          Great Australian Doorstep were read and do not name them. Great South East is not on
+          7plus. Channel 10's public pages for What's Up Down Under and The Offroad Adventure Show
+          do not name them either. Older 10 episode lists do not come down with the public page, so
+          those blurbs could not be read.
         </p>
         <nav className="mt-6 flex flex-wrap gap-2" aria-label="Shows">
           {SHOWS.map((show) => (
