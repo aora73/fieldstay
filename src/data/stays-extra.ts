@@ -1872,6 +1872,18 @@ export const EXTRA_STAYS: Stay[] = [
     ],
     photos: [
       {
+        src: "/photos/horizons-lake-jindabyne-shore.jpg",
+        alt: "Lake Jindabyne under a bright sky, with a bare sandy shore in the foreground and low hills across the water",
+        caption: "The lake, 2024. This is the walk from town, not a view from a ski village.",
+        credit: "AORA, 2024",
+      },
+      {
+        src: "/photos/horizons-lake-jindabyne-bikes.jpg",
+        alt: "Two mountain bikes, a helmet and a high-visibility jacket on the bare shore of Lake Jindabyne",
+        caption: "Bikes on the lake shore, 2024. The foreshore is the ride that does not need Thredbo.",
+        credit: "AORA, 2024",
+      },
+      {
         src: "/photos/horizons-lake-jindabyne.jpg",
         alt: "Dusk aerial of Horizons Lake Jindabyne, the resort beside Kosciuszko Road with Lake Jindabyne and the ranges behind",
         caption: "The resort on Kosciuszko Road, the lake on the other side of the building.",
@@ -1889,7 +1901,7 @@ export const EXTRA_STAYS: Stay[] = [
     summary:
       "A favourite because it is in Jindabyne, not up the mountain. The lake is beside the building, the shops are a walk, and Thredbo is 34 kilometres when you want it.",
     aoraExperience:
-      "AORA and Dingo Dave have stayed, and it is a favourite for where it sits. Jindabyne is the town you sleep in. The lake is beside the building, Nuggets Crossing and the rest of town are a walk, and the car can stay put until the day actually needs it. Thredbo is 34 kilometres up Kosciuszko Road, the hotel’s own figure, and Perisher is the other road out of the same town. You are not staying in a ski village and driving down for bread. The apartment is the other half of it: a kitchen, a washer and dryer, and a balcony, so a wet day does not depend on Embers being open. Bikes belong to the place without being the reason. Hire one and ride the lake into town any month. The lower Thredbo Valley Track stays open when the high country closes. Summer is when the Thredbo bike park, the same 34 kilometres, becomes the day trip. We would send a pair or a small crew who want the town, the lake, and a real kitchen. We would not send a dog, or anyone who booked a lodge in the snow and meant the village.",
+      "AORA and Dingo Dave have stayed, and it is a favourite for where it sits. Jindabyne is the town you sleep in. The 2024 photographs are the lake itself, and the bikes on that shore. The lake is beside the building, Nuggets Crossing and the rest of town are a walk, and the car can stay put until the day actually needs it. Thredbo is 34 kilometres up Kosciuszko Road, the hotel’s own figure, and Perisher is the other road out of the same town. You are not staying in a ski village and driving down for bread. The apartment is the other half of it: a kitchen, a washer and dryer, and a balcony, so a wet day does not depend on Embers being open. Bikes belong to the place without being the reason. Hire one and ride the lake into town any month. The lower Thredbo Valley Track stays open when the high country closes. Summer is when the Thredbo bike park, the same 34 kilometres, becomes the day trip. We would send a pair or a small crew who want the town, the lake, and a real kitchen. We would not send a dog, or anyone who booked a lodge in the snow and meant the village.",
     verdict:
       "The Jindabyne base. Lake at the door, town on foot, mountains a short drive. Book the view you actually want.",
     bestFor:
@@ -1960,7 +1972,7 @@ export const EXTRA_STAYS: Stay[] = [
       "The hotel pages do not print check-in, a pet rule, a standing rate, or whether breakfast is included. Listings disagree on 3pm or 4pm check-in and say pets are not allowed. Those lines are flagged as listings",
       "Thredbo, November 2026: mountain-bike park opened for summer on 21 November, a bit over 40 km of terrain. We Are Explorers, January 2026: only the lower Thredbo Valley Track stays open all year. Flow Mountain Bike, February 2026: the shared-trail build toward 50 km was still underway, with East Jindabyne sections aimed at the end of the 2026 summer. NSW Government: the Jindabyne Mountain Bike and Adventure Park is a master plan, not an open trailhead",
       "Map pin from the hotel’s own Google link for Rydges Horizons Snowy Mountains: -36.4149723, 148.6169744",
-      "Photographs: Horizons Lake Jindabyne, the resort and the lake at dusk, and the lake in the day",
+      "Photographs: AORA, 2024, the lake and bikes on the shore; Horizons Lake Jindabyne, the resort and the lake at dusk, and the lake in the day",
     ],
   },
 ];
