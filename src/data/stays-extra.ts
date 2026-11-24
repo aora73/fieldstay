@@ -1990,7 +1990,7 @@ export const EXTRA_STAYS: Stay[] = [
     score: 8.6,
     priceBand: "$",
     priceNote:
-      "Neither ground charges a camping fee. Both charge a $6 booking fee, and the park entry is separate. On the Alpine Way that is $17 a vehicle per day outside the winter window, and $29 a vehicle per day from the June long weekend to the October long weekend. Motorcycles are $7 and $12. A booking receipt is not a park pass.",
+      "Camping fees are payable at both grounds. The campground pages still say there is no camping fee and only a $6 booking fee. That line is wrong. Pay the rate on the booking for the nights you want, and pay the park entry as well. On the Alpine Way that is $17 a vehicle per day outside the winter window, and $29 a vehicle per day from the June long weekend to the October long weekend. Motorcycles are $7 and $12. A booking receipt is not a park pass.",
     attributes: [
       "unpowered",
       "campfire",
@@ -2019,13 +2019,13 @@ export const EXTRA_STAYS: Stay[] = [
       },
     ],
     summary:
-      "A favourite pair of booked camps on the Thredbo River, between Jindabyne and Thredbo. Same fee, same river, no water. Diggings if the vehicle stays at the tent. Ngarigo if you want the ground closer to the village.",
+      "A favourite pair of booked camps on the Thredbo River, between Jindabyne and Thredbo. A camping fee at both, the same river, no water. Diggings if the vehicle stays at the tent. Ngarigo if you want the ground closer to the village.",
     aoraExperience:
-      "AORA and Dingo Dave count both as a favourite. This entry does not invent a site number or a date. They are the river camps you use when the night should be under the gums rather than in a Jindabyne apartment, and when Thredbo is a short drive up the Alpine Way rather than the place you have to sleep. Diggings is the first turn, about the 19 kilometre mark from Jindabyne, with the vehicle beside the site. Ngarigo is the next one, the turn the park puts at about 23 kilometres along the Alpine Way, closer to the village, with a cleared grassy area the page calls good for a group. The Thredbo Valley Track joins them. A camp board reading, not a park measurement, puts that walk or ride at 4.8 kilometres one way. Carry water for both. Buy wood. Take the rubbish. Book the site, and buy the park pass as well. We would send a crew that can live without a shower for a night or three. We would not send a dog, a rig that needs a powered pedestal, or anyone who booked a village bed and expected the river to be it.",
+      "AORA and Dingo Dave count both as a favourite. This entry does not invent a site number or a date. They are the river camps you use when the night should be under the gums rather than in a Jindabyne apartment, and when Thredbo is a short drive up the Alpine Way rather than the place you have to sleep. Diggings is the first turn, about the 19 kilometre mark from Jindabyne, with the vehicle beside the site. Ngarigo is the next one, the turn the park puts at about 23 kilometres along the Alpine Way, closer to the village, with a cleared grassy area the page calls good for a group. The Thredbo Valley Track joins them. A camp board reading, not a park measurement, puts that walk or ride at 4.8 kilometres one way. Carry water for both. Buy wood. Take the rubbish. The camping fee is payable. Do not budget from the line on the park page that says there is no camping fee. Book the site, and buy the park pass as well. We would send a crew that can live without a shower for a night or three. We would not send a dog, a rig that needs a powered pedestal, or anyone who booked a village bed and expected the river to be it.",
     verdict:
       "The Thredbo River camps, treated as one choice. Diggings for a vehicle at the tent. Ngarigo for the ground nearer Thredbo. Book either one, and do not turn up hoping a site is spare.",
     bestFor:
-      "A crew that wants the river between Jindabyne and Thredbo, with a fire ring, a marked site, and no camping tariff beyond the booking fee and the park pass.",
+      "A crew that wants the river between Jindabyne and Thredbo, with a fire ring and a marked site, and will pay the camping fee on the booking.",
     skipIf:
       "You need drinking water on site, a hot shower, a dog, or a powered site. Also skip it if the Alpine Way is the plan and you have not checked snow and chains for that day.",
     scores: [
@@ -2033,7 +2033,7 @@ export const EXTRA_STAYS: Stay[] = [
       { label: "River", value: 9.0 },
       { label: "Access", value: 8.3 },
       { label: "Facilities", value: 6.2 },
-      { label: "Value", value: 8.8 },
+      { label: "Value", value: 7.4 },
     ],
     sections: [
       {
@@ -2046,7 +2046,7 @@ export const EXTRA_STAYS: Stay[] = [
       {
         heading: "What is the same",
         paragraphs: [
-          "No camping fee at either ground. A $6 booking fee applies, and you book. Online bookings take up to 12 people or 2 sites. Larger groups and school groups go through the enquiry form. Maximum stay is 14 days at the campground and 21 days in the park. Park entry is extra: $17 a vehicle per day for the rest of the year, $29 a vehicle per day through the winter window, 24 hours from purchase. Motorcycles are $7 and $12. Day, multi-day and annual passes exist. For this part of the park, single and multi-day passes are also in the Park'nPay app. The booking is not the pass.",
+          "Camping fees are payable at both grounds. The pages still say there is no camping fee and only a $6 booking fee. Ignore that line and pay what the booking charges for the nights. You still book. Online bookings take up to 12 people or 2 sites. Larger groups and school groups go through the enquiry form. Maximum stay is 14 days at the campground and 21 days in the park. Park entry is extra: $17 a vehicle per day for the rest of the year, $29 a vehicle per day through the winter window, 24 hours from purchase. Motorcycles are $7 and $12. Day, multi-day and annual passes exist. For this part of the park, single and multi-day passes are also in the Park'nPay app. The booking is not the pass.",
           "There is no drinking water and no cooking water. There are no bins. There are no showers and no powered sites. Fires are the wood barbecues and the fire rings, with wood you brought. Gathering firewood is prohibited. Diggings names Thredbo village and Lake Crackenback for wood and ice. Ngarigo names Jindabyne or Thredbo. Total fire bans still apply. Pets are not permitted, other than certified assistance animals. Recreational drones are prohibited. The parks are no-smoking areas. Mobile reception is limited, and you need reception to call Triple Zero. Diggings adds that noise restrictions apply.",
         ],
       },
@@ -2099,41 +2099,41 @@ export const EXTRA_STAYS: Stay[] = [
         {
           label: "The bill",
           cells: [
-            "No camp fee. $6 to book. Park entry on top",
-            "No camp fee. $6 to book. Park entry on top",
+            "Camping fee payable. The page still says no fee",
+            "Camping fee payable. The page still says no fee",
           ],
         },
       ],
     },
     practical: [
       { label: "Kind of stay", value: "Two NPWS campgrounds, one review. Book the ground you mean" },
-      { label: "Why it is a favourite", value: "The Thredbo River between Jindabyne and Thredbo, without a camping tariff" },
+      { label: "Why it is a favourite", value: "The Thredbo River between Jindabyne and Thredbo" },
       { label: "Diggings pin", value: "ExplorOz -36.447224, 148.425552. The marker on the map" },
       { label: "Ngarigo pin", value: "ExplorOz -36.458168, 148.384649. Not a second marker" },
       { label: "Book", value: "NSW National Parks. Up to 12 people or 2 sites online" },
-      { label: "Park pass", value: "$17 a vehicle, or $29 in the winter window. Separate from the $6 booking" },
+      { label: "Camp fee", value: "Payable. Do not use the 'no camping fee' line on the park page" },
+      { label: "Park pass", value: "$17 a vehicle, or $29 in the winter window. Separate from the camping fee" },
       { label: "Bring", value: "Drinking water, cooking water, firewood, and a bag for the rubbish" },
       { label: "Phone", value: "Snowy Region Visitor Centre (02) 6450 5600 · 1300 072 757" },
       { label: "Winter", value: "Chains after snow. 2WD carry chains on the Alpine Way past Thredbo. Read the sign" },
     ],
     pros: [
-      "On the river, a short Alpine Way drive from Jindabyne and a shorter one from Thredbo",
-      "No camping fee. The $6 is a booking, and the park pass is the other bill",
+      "On the river between Jindabyne and Thredbo",
       "Marked sites, fire rings, and a real choice between a vehicle at the tent and the ground nearer the village",
       "The Thredbo Valley Track links the two, so a full ground is not a dead end if the other has a site",
       "2WD on the unsealed last bit, in the dry, on the park’s own access line",
     ],
     cons: [
+      "The camp page still says camping is free. It is not. Pay the fee on the booking",
       "No water, no shower, no bins, no power",
-      "You book, and a favourite ground in season is not a drive-up",
       "Diggings does not print a generator rule. Do not copy the Ngarigo rule across",
       "Ngarigo’s longer vans are a camp-map question, not a promise on the park page",
       "Limited phone reception. A winter road over the gap is a different drive from the drive to camp",
     ],
     sources: [
-      "Dingo Dave, Australian Offroad Academy, written November 2026: both grounds are a favourite on the Thredbo River. No invented site, no invented night, and no claim that a long van fits every Ngarigo site",
-      "NSW National Parks, Thredbo Diggings overview and visitor info, checked November 2026: 41 sites, $6 booking fee, no camp fee, 14 days and 21 in the park, up to 12 people or 2 sites, no water, three ambulant non-flush toilets, park beside the site, bring firewood, no bins, no pets, no recreational drones, noise restrictions, around 19 km from Jindabyne and the 3 km plus 19 km turn-by-turn, (02) 6450 5600",
-      "NSW National Parks, Ngarigo overview and visitor info, checked November 2026: spelling Ngarigo, 30 sites, $6 booking fee, no camp fee, 14 days and 21 in the park, no water, accessible non-flush toilet, quiet generators in particular areas, short walk to some tents, 3 km plus about 23 km on the Alpine Way, alpine ash and a cleared area for groups, fishing, no pets, no bins",
+      "Dingo Dave, Australian Offroad Academy, written November 2026: both grounds are a favourite on the Thredbo River, and camping fees are payable. The 'no camping fee' line on the park pages is not the tariff. No invented site, no invented night, and no dollar amount beyond what the booking shows",
+      "NSW National Parks, Thredbo Diggings overview and visitor info, checked November 2026: 41 sites, the page still prints a $6 booking fee and no camp fee, which AORA says is wrong, 14 days and 21 in the park, up to 12 people or 2 sites, no water, three ambulant non-flush toilets, park beside the site, bring firewood, no bins, no pets, no recreational drones, noise restrictions, around 19 km from Jindabyne and the 3 km plus 19 km turn-by-turn, (02) 6450 5600",
+      "NSW National Parks, Ngarigo overview and visitor info, checked November 2026: spelling Ngarigo, 30 sites, the same stale 'no camp fee' line, 14 days and 21 in the park, no water, accessible non-flush toilet, quiet generators in particular areas, short walk to some tents, 3 km plus about 23 km on the Alpine Way, alpine ash and a cleared area for groups, fishing, no pets, no bins",
       "Park entry on both pages: $17 a vehicle per day outside winter, $29 from the June long weekend to the October long weekend. Motorcycles $7 and $12. Passes also via Park'nPay for this area",
       "ExplorOz pins, not NPWS coordinates: Diggings -36.447224, 148.425552; Ngarigo -36.458168, 148.384649. The map uses the Diggings pin",
       "Adventurekit, 7 November 2026, reading a camp-map board sketched in December 2022: Ngarigo caravan sites 1 to 10 at about 4.6 m, and 4.8 km on the Thredbo Valley Track from Diggings to Ngarigo. Kept as a board reading, not a park measurement",
