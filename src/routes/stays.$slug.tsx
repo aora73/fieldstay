@@ -191,6 +191,39 @@ function StayPage() {
           </section>
         ))}
 
+        {stay.comparison ? (
+          <section className="mt-10">
+            <h2 className="font-display text-3xl">Side by side</h2>
+            <div className="mt-4 overflow-x-auto rounded-lg border border-line">
+              <table className="w-full min-w-[36rem] text-left text-sm">
+                <thead className="bg-card">
+                  <tr>
+                    <th className="px-3 py-3 font-medium" />
+                    {stay.comparison.columns.map((column) => (
+                      <th key={column} className="px-3 py-3 font-medium">
+                        {column}
+                      </th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {stay.comparison.rows.map((row) => (
+                    <tr key={row.label} className="border-t border-line align-top">
+                      <th className="px-3 py-3 font-medium text-muted">{row.label}</th>
+                      {row.cells.map((cell, index) => (
+                        <td key={`${row.label}-${index}`} className="px-3 py-3">
+                          {cell}
+                        </td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+            <p className="mt-3 text-sm text-muted">{stay.comparison.caption}</p>
+          </section>
+        ) : null}
+
         <section className="mt-10">
           <h2 className="font-display text-3xl">Practical</h2>
           <dl className="mt-4 divide-y divide-line border-y border-line">

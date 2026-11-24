@@ -116,6 +116,12 @@ export const SUBSECTIONS: {
     blurb: "Longer dirt, your own water plan, and no servo at the gate.",
   },
   {
+    id: "alpine-river",
+    category: "camping",
+    label: "Alpine river camps",
+    blurb: "Booked national-park sites on a river, town behind you and the mountain up the road.",
+  },
+  {
     id: "beach-bush",
     category: "camping",
     label: "Beach bush camps",
@@ -200,6 +206,12 @@ export type StayPhoto = {
 
 export type ScoreRow = { label: string; value: number };
 
+export type StayComparison = {
+  caption: string;
+  columns: [string, string];
+  rows: { label: string; cells: [string, string] }[];
+};
+
 export type Stay = {
   slug: string;
   name: string;
@@ -226,6 +238,7 @@ export type Stay = {
   skipIf: string;
   scores: ScoreRow[];
   sections: { heading: string; paragraphs: string[] }[];
+  comparison?: StayComparison;
   practical: { label: string; value: string }[];
   pros: string[];
   cons: string[];
