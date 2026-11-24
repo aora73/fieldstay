@@ -14,6 +14,7 @@ import { Route as AboutRouteImport } from './routes/about'
 import { Route as DiaryRouteImport } from './routes/diary'
 import { Route as ExploreRouteImport } from './routes/explore'
 import { Route as MapRouteImport } from './routes/map'
+import { Route as OnAirRouteImport } from './routes/on-air'
 import { Route as ShortlistRouteImport } from './routes/shortlist'
 import { Route as CategoriesCategoryRouteImport } from './routes/categories.$category'
 import { Route as StaysSlugRouteImport } from './routes/stays.$slug'
@@ -43,6 +44,11 @@ const MapRoute = MapRouteImport.update({
   path: '/map',
   getParentRoute: () => rootRouteImport,
 } as any)
+const OnAirRoute = OnAirRouteImport.update({
+  id: '/on-air',
+  path: '/on-air',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ShortlistRoute = ShortlistRouteImport.update({
   id: '/shortlist',
   path: '/shortlist',
@@ -65,6 +71,7 @@ export interface FileRoutesByFullPath {
   '/diary': typeof DiaryRoute
   '/explore': typeof ExploreRoute
   '/map': typeof MapRoute
+  '/on-air': typeof OnAirRoute
   '/shortlist': typeof ShortlistRoute
   '/categories/$category': typeof CategoriesCategoryRoute
   '/stays/$slug': typeof StaysSlugRoute
@@ -75,6 +82,7 @@ export interface FileRoutesByTo {
   '/diary': typeof DiaryRoute
   '/explore': typeof ExploreRoute
   '/map': typeof MapRoute
+  '/on-air': typeof OnAirRoute
   '/shortlist': typeof ShortlistRoute
   '/categories/$category': typeof CategoriesCategoryRoute
   '/stays/$slug': typeof StaysSlugRoute
@@ -86,6 +94,7 @@ export interface FileRoutesById {
   '/diary': typeof DiaryRoute
   '/explore': typeof ExploreRoute
   '/map': typeof MapRoute
+  '/on-air': typeof OnAirRoute
   '/shortlist': typeof ShortlistRoute
   '/categories/$category': typeof CategoriesCategoryRoute
   '/stays/$slug': typeof StaysSlugRoute
@@ -98,6 +107,7 @@ export interface FileRouteTypes {
     | '/diary'
     | '/explore'
     | '/map'
+    | '/on-air'
     | '/shortlist'
     | '/categories/$category'
     | '/stays/$slug'
@@ -108,6 +118,7 @@ export interface FileRouteTypes {
     | '/diary'
     | '/explore'
     | '/map'
+    | '/on-air'
     | '/shortlist'
     | '/categories/$category'
     | '/stays/$slug'
@@ -118,6 +129,7 @@ export interface FileRouteTypes {
     | '/diary'
     | '/explore'
     | '/map'
+    | '/on-air'
     | '/shortlist'
     | '/categories/$category'
     | '/stays/$slug'
@@ -129,6 +141,7 @@ export interface RootRouteChildren {
   DiaryRoute: typeof DiaryRoute
   ExploreRoute: typeof ExploreRoute
   MapRoute: typeof MapRoute
+  OnAirRoute: typeof OnAirRoute
   ShortlistRoute: typeof ShortlistRoute
   CategoriesCategoryRoute: typeof CategoriesCategoryRoute
   StaysSlugRoute: typeof StaysSlugRoute
@@ -171,6 +184,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof MapRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/on-air': {
+      id: '/on-air'
+      path: '/on-air'
+      fullPath: '/on-air'
+      preLoaderRoute: typeof OnAirRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/shortlist': {
       id: '/shortlist'
       path: '/shortlist'
@@ -201,6 +221,7 @@ const rootRouteChildren: RootRouteChildren = {
   DiaryRoute: DiaryRoute,
   ExploreRoute: ExploreRoute,
   MapRoute: MapRoute,
+  OnAirRoute: OnAirRoute,
   ShortlistRoute: ShortlistRoute,
   CategoriesCategoryRoute: CategoriesCategoryRoute,
   StaysSlugRoute: StaysSlugRoute,

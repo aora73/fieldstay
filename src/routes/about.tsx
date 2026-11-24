@@ -34,6 +34,10 @@ function AboutPage() {
           <Link to="/diary" className="font-medium text-ember underline">
             You don’t have to conquer it
           </Link>
+          . Public mentions on the shows are indexed on{" "}
+          <Link to="/on-air" className="font-medium text-ember underline">
+            On air
+          </Link>
           .
         </p>
         <nav className="mt-6 flex flex-wrap gap-2" aria-label="On this page">

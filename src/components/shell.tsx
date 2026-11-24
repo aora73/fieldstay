@@ -110,6 +110,12 @@ export function Shell({ children }: { children: ReactNode }) {
             >
               Dingo’s Diary
             </Link>
+            <Link
+              to="/on-air"
+              className="mt-1 inline-flex min-h-11 items-center font-medium text-paper underline decoration-ember underline-offset-4"
+            >
+              On air
+            </Link>
           </p>
         </div>
       </footer>
