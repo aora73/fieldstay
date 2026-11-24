@@ -1880,7 +1880,7 @@ export const EXTRA_STAYS: Stay[] = [
       {
         src: "/photos/horizons-lake-jindabyne-bikes.jpg",
         alt: "Two mountain bikes, a helmet and a high-visibility jacket on the bare shore of Lake Jindabyne",
-        caption: "Bikes on the lake shore, 2024. The foreshore is the ride that does not need Thredbo.",
+        caption: "Bikes on the lake shore, 2024. A foreshore ride from Jindabyne, with Thredbo up the road when you want it.",
         credit: "AORA, 2024",
       },
       {
