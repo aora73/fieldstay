@@ -152,10 +152,10 @@ function StayPage() {
             )}
           </h3>
           <p className="mt-2 text-base leading-relaxed">{stay.aoraExperience}</p>
-          <p className="mt-2 text-sm text-muted">
-            {stay.roadTested === false
-              ? "No academy crew has slept here yet. The paragraph above is that fact, and the number is a reading of what the operator publishes until a road trip rewrites it. It is not an average of scraped stars."
-              : "This is the first criterion, for this stay and for every stay that follows. The number starts with how the place worked on an AORA road trip — the drive in, the sleep, and whether we would send another crew. It is not an average of scraped stars."}
+          <p className="mt-2 text-xs">
+            <Link to="/numbers" className="font-medium text-ember underline">
+              How a score is made
+            </Link>
           </p>
           <ul className="mt-4 flex flex-col gap-3">
             {stay.scores.map((row) => (

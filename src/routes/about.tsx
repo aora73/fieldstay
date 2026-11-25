@@ -124,11 +124,10 @@ function AboutPage() {
           </p>
         </section>
 
-        <p className="mt-12 text-sm leading-relaxed text-muted">
-          Written from the academy’s about page, course list and Knowledge Centre; the National 4x4 Outdoors
-          Show Melbourne 2026 speaker note on Dave Darmody; Drive Straya’s 2026 ambassador announcement; a
-          2015 account of his K’gari instruction; and Burnett Mary Regional Group’s May 2025 note on his
-          Rainbow Beach training. Checked November 2026.
+        <p className="mt-12 text-xs">
+          <Link to="/numbers" className="font-medium text-ember underline">
+            How a score is made
+          </Link>
         </p>
       </article>
     </Shell>

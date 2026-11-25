@@ -73,27 +73,10 @@ export function Shell({ children }: { children: ReactNode }) {
         <div className="mx-auto flex max-w-6xl flex-col gap-4 px-4 py-8 text-sm sm:flex-row sm:items-start sm:justify-between">
           <div className="max-w-3xl">
             <p className="font-display text-base font-semibold text-paper">Fieldstay</p>
-            <p className="mt-2">
-              The Australian Offroad Academy stay ledger. Scores lead with personal experience from{" "}
-              <Link
-                to="/about"
-                hash="dingo-dave"
-                className="font-medium text-paper underline decoration-ember underline-offset-4"
-              >
-                Dingo Dave
-              </Link>{" "}
-              and{" "}
-              <Link
-                to="/about"
-                hash="australian-offroad-academy"
-                className="font-medium text-paper underline decoration-ember underline-offset-4"
-              >
-                AORA
-              </Link>{" "}
-              travel and road trips. Public listings and guest write-ups sit under “Additional details
-              from” on each review. They do not set the number. Facilities, fees and rules change — confirm
-              pets, generators, fires and turtle-light curfews before you book. Photographs are real and
-              credited.
+            <p className="mt-2 text-xs">
+              <Link to="/numbers" className="font-medium text-paper underline decoration-ember underline-offset-4">
+                How a score is made
+              </Link>
             </p>
           </div>
           <p className="shrink-0">

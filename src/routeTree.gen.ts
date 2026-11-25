@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
+import { Route as NumbersRouteImport } from './routes/numbers'
 import { Route as DiaryRouteImport } from './routes/diary'
 import { Route as ExploreRouteImport } from './routes/explore'
 import { Route as MapRouteImport } from './routes/map'
@@ -27,6 +28,11 @@ const IndexRoute = IndexRouteImport.update({
 const AboutRoute = AboutRouteImport.update({
   id: '/about',
   path: '/about',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const NumbersRoute = NumbersRouteImport.update({
+  id: '/numbers',
+  path: '/numbers',
   getParentRoute: () => rootRouteImport,
 } as any)
 const DiaryRoute = DiaryRouteImport.update({
@@ -68,6 +74,7 @@ const StaysSlugRoute = StaysSlugRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/numbers': typeof NumbersRoute
   '/diary': typeof DiaryRoute
   '/explore': typeof ExploreRoute
   '/map': typeof MapRoute
@@ -79,6 +86,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/numbers': typeof NumbersRoute
   '/diary': typeof DiaryRoute
   '/explore': typeof ExploreRoute
   '/map': typeof MapRoute
@@ -91,6 +99,7 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/numbers': typeof NumbersRoute
   '/diary': typeof DiaryRoute
   '/explore': typeof ExploreRoute
   '/map': typeof MapRoute
@@ -104,6 +113,7 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/about'
+    | '/numbers'
     | '/diary'
     | '/explore'
     | '/map'
@@ -115,6 +125,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/about'
+    | '/numbers'
     | '/diary'
     | '/explore'
     | '/map'
@@ -126,6 +137,7 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/about'
+    | '/numbers'
     | '/diary'
     | '/explore'
     | '/map'
@@ -138,6 +150,7 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
+  NumbersRoute: typeof NumbersRoute
   DiaryRoute: typeof DiaryRoute
   ExploreRoute: typeof ExploreRoute
   MapRoute: typeof MapRoute
@@ -161,6 +174,13 @@ declare module '@tanstack/react-router' {
       path: '/about'
       fullPath: '/about'
       preLoaderRoute: typeof AboutRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/numbers': {
+      id: '/numbers'
+      path: '/numbers'
+      fullPath: '/numbers'
+      preLoaderRoute: typeof NumbersRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/diary': {
@@ -218,6 +238,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
+  NumbersRoute: NumbersRoute,
   DiaryRoute: DiaryRoute,
   ExploreRoute: ExploreRoute,
   MapRoute: MapRoute,
